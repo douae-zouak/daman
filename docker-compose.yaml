@@ -1,0 +1,19 @@
+services:
+  app:
+    build: .
+    container_name: daman-ai-app
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persistence des données (Base de données et documents scannés)
+      - ./data:/app/data
+      # Persistence de la base vectorielle Chroma
+      - ./chroma_db:/app/chroma_db
+    env_file:
+      - .env
+    restart: unless-stopped
+
+# Volumes nommés si vous préférez ne pas utiliser de bind mounts locaux
+# volumes:
+#   daman_data:
+#   daman_chroma:

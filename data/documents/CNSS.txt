@@ -1,0 +1,103 @@
+---
+titre: CNSS - Caisse Nationale de Sécurité Sociale
+organisme: CNSS
+type_procedure: Affiliation, pension retraite, allocations familiales
+source: cnss.ma
+date_mise_a_jour: 2024
+---
+
+# CNSS - Guide des Prestations
+
+## 📋 Présentation
+La Caisse Nationale de Sécurité Sociale (CNSS) gère la protection sociale des salariés du secteur privé au Maroc.
+
+## 1. AFFILIATION À LA CNSS
+
+### Pour les employeurs :
+- **Obligation légale** : Tout employeur doit affilier ses salariés dans les 8 jours suivant l'embauche
+- **Immatriculation** : Obtenir un numéro d'affiliation employeur
+
+### Documents pour l'affiliation employeur :
+1. Demande d'affiliation (formulaire CNSS)
+2. Copie du registre de commerce
+3. Copie de la CNI du gérant
+4. Copie du statut de l'entreprise
+5. Attestation de domiciliation bancaire
+
+### Pour les salariés :
+L'employeur doit déclarer chaque salarié avec :
+- CNI du salarié
+- Acte de naissance
+- Contrat de travail
+- Déclaration d'embauche
+
+## 2. PENSION DE RETRAITE
+
+### Conditions d'obtention :
+1. **Âge légal** : 60 ans (peut être anticipée à 55 ans sous conditions)
+2. **Durée de cotisation** : Minimum 3240 jours (9 ans)
+3. **Cessation d'activité** : Ne plus exercer d'activité salariée
+
+### Montant de la pension :
+- Calcul basé sur la moyenne des salaires des 8 dernières années
+- Taux : 50% du salaire moyen + 1% par tranche de 216 jours au-delà de 3240 jours
+- Maximum : 100% du salaire moyen ou plafond légal
+
+### Documents pour la demande de pension :
+1. Demande de pension (formulaire spécifique)
+2. CNI
+3. Attestation de radiation (dernier employeur)
+4. Relevé d'identité bancaire (RIB)
+5. Acte de mariage (pour la pension de réversion)
+6. Actes de naissance des enfants (pour majorations)
+
+## 3. ALLOCATIONS FAMILIALES
+
+### Bénéficiaires :
+- Salariés du secteur privé
+- Apprentis
+- Stagiaires en formation professionnelle
+
+### Conditions :
+- Avoir au moins un enfant à charge
+- Justifier d'un minimum de 108 jours de cotisation sur les 12 derniers mois
+- Les enfants doivent :
+  - Être âgés de moins de 12 ans (sans condition)
+  - De 12 à 18 ans : être scolarisés ou en apprentissage
+  - De 18 à 21 ans : poursuivre des études supérieures
+  - Sans limite d'âge : enfants handicapés
+
+### Montants (2024) :
+- **1er et 2ème enfant** : 200 DH/mois par enfant
+- **3ème enfant et plus** : 100 DH/mois par enfant
+- **Majoration pour enfants scolarisés** : +50 DH
+
+### Documents pour la demande :
+1. Formulaire de demande d'allocations familiales
+2. CNI du salarié
+3. Actes de naissance des enfants
+4. Certificats de scolarité (pour enfants >12 ans)
+5. Relevé d'identité bancaire (RIB)
+
+## 4. PRESTATIONS SOCIALES (Maladie - Maternité)
+
+### Indemnités journalières (maladie) :
+- **Conditions** : 54 jours de cotisation sur les 6 derniers mois
+- **Durée** : Variable selon l'affection
+- **Montant** : 50% à 100% du salaire selon la situation
+
+### Indemnités de maternité :
+- **Durée** : 14 semaines (prénatale et postnatale)
+- **Montant** : 100% du salaire pendant 14 semaines
+- **Condition** : 54 jours de cotisation sur les 10 derniers mois
+
+## 📞 Contacts CNSS
+- **Centre d'appels** : 080 100 50 50
+- **Site web** : www.cnss.ma
+- **Application** : CNSS Mobile
+- **Email** : contact@cnss.ma
+
+## 🔗 Liens utiles
+- Calculatrice de pension : www.cnss.ma/simulateur
+- Relevé de carrière : espace adhérent
+- Attestation d'affiliation : téléchargeable en ligne

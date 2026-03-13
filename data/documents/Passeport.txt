@@ -1,0 +1,94 @@
+---
+titre: Passeport Marocain
+organisme: Direction Générale de la Sûreté Nationale (DGSN)
+type_procedure: Demande, renouvellement, passeport biométrique
+source: service-public.ma
+date_mise_a_jour: 2024
+---
+
+# Passeport Marocain - Guide Complet
+
+## 📋 Description
+Le passeport marocain est un document de voyage délivré aux citoyens marocains. Depuis 2009, le Maroc délivre des passeports biométriques conformes aux normes internationales.
+
+## Types de passeports
+- **Passeport biométrique** (valable 5 ans)
+- **Passeport ordinaire** (en cours de remplacement)
+- **Passeport pour étrangers** (titre de voyage)
+
+## ✅ Conditions d'éligibilité
+1. Être de nationalité marocaine
+2. Pour les mineurs : consentement des parents ou du tuteur légal
+3. Être en règle avec les obligations militaires (pour les hommes de 19 à 40 ans)
+4. Ne pas être sous le coup d'une interdiction de sortie du territoire
+
+## 📄 Pièces justificatives à fournir
+
+### Pour une première demande (adulte) :
+1. Original et copie de la CNI (Carte Nationale d'Identité)
+2. Acte de naissance (moins de 3 mois)
+3. 4 photos d'identité récentes sur fond blanc (format 35x45 mm)
+4. Timbre fiscal (montant variable selon le type de passeport)
+5. Attestation de résidence (si changement d'adresse)
+6. Pour les hommes : attestation de situation militaire
+
+### Pour une première demande (mineur) :
+1. Original et copie de l'acte de naissance du mineur
+2. Original et copie des CNI des parents ou tuteur
+3. 4 photos d'identité récentes du mineur
+4. Autorisation parentale signée par les deux parents
+5. Timbre fiscal
+
+### Pour un renouvellement :
+1. Ancien passeport
+2. Original et copie de la CNI
+3. 4 photos d'identité récentes
+4. Timbre fiscal
+
+### En cas de perte/vol à l'étranger :
+1. Déclaration de perte/vol auprès des autorités locales
+2. Déclaration consulaire
+3. CNI ou acte de naissance
+4. 4 photos d'identité
+
+## 📝 Procédure pas à pas
+
+### Au Maroc :
+1. **Prise de rendez-vous** (dans certaines préfectures)
+2. **Dépôt du dossier** au bureau de la DGSN
+3. **Prise des données biométriques** (empreintes, photo)
+4. **Paiement des frais** (timbre fiscal)
+5. **Retrait** après réception du SMS de convocation
+
+### À l'étranger (dans les consulats) :
+1. Prendre rendez-vous sur le site du consulat
+2. Déposer le dossier complet
+3. Payer les frais consulaires
+4. Retirer le passeport (délai variable)
+
+## ⏱️ Délais et coûts
+
+### Délais :
+- **Passeport ordinaire** : 5 à 10 jours ouvrés
+- **Passeport urgent** : 24 à 48 heures (supplément)
+- **À l'étranger** : 2 à 4 semaines
+
+### Coûts (timbre fiscal) :
+- **Passeport biométrique (28 pages)** : 300 DH
+- **Passeport biométrique (48 pages)** : 500 DH
+- **Renouvellement** : 300 DH
+- **Supplément urgence** : +200 DH
+
+## 🌐 Passeport biométrique
+Le passeport biométrique contient une puce électronique avec :
+- Les informations d'état civil
+- La photo numérisée
+- Les empreintes digitales (2)
+- La signature du titulaire
+
+Validité : 5 ans (renouvelable)
+
+## 📞 Contacts
+- **DGSN** : 05 37 27 37 37
+- **Site officiel** : www.dgsn.gov.ma
+- **Consulats** : www.diplomatie.ma

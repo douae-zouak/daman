@@ -1,0 +1,111 @@
+---
+titre: ANAPEC - Agence Nationale de Promotion de l'Emploi et des Compétences
+organisme: ANAPEC
+type_procedure: Inscription, formation, aide à l'emploi
+source: anapec.org
+date_mise_a_jour: 2024
+---
+
+# ANAPEC - Guide du Chercheur d'Emploi
+
+## 📋 Présentation
+L'ANAPEC accompagne les chercheurs d'emploi et les entreprises dans leurs besoins en recrutement et formation.
+
+## 1. INSCRIPTION COMME DEMANDEUR D'EMPLOI
+
+### Inscription en ligne :
+1. Créer un compte sur www.anapec.org
+2. Remplir le formulaire d'inscription
+3. Télécharger les documents requis
+4. Valider l'inscription
+
+### Documents nécessaires :
+- CNI
+- CV à jour
+- Diplômes et certificats
+- Attestations de travail (si expérience)
+- Photo d'identité
+
+### Inscription en agence :
+1. Se rendre dans l'agence ANAPEC la plus proche
+2. Retirer et remplir le formulaire d'inscription
+3. Fournir les documents justificatifs
+4. Rencontrer un conseiller
+
+## 2. PROGRAMMES D'AIDE À L'EMPLOI
+
+### Idmaj (Contrat d'insertion) :
+- **Objectif** : Faciliter l'insertion des jeunes diplômés
+- **Public** : Jeunes de moins de 30 ans, diplômés de l'enseignement supérieur ou formation professionnelle
+- **Durée** : 12 à 24 mois
+- **Avantages** :
+  - Prise en charge partielle du salaire par l'État
+  - Couverture CNSS
+  - Formation en entreprise
+
+### Taehil (Programme de formation) :
+- **Objectif** : Renforcer les compétences des demandeurs d'emploi
+- **Public** : Demandeurs d'emploi inscrits à l'ANAPEC
+- **Formations proposées** :
+  - Compétences techniques (métiers)
+  - Compétences linguistiques
+  - Compétences digitales
+  - Soft skills
+
+### Moukawalati (Auto-emploi) :
+- **Objectif** : Aide à la création d'entreprise
+- **Public** : Porteurs de projets
+- **Services** :
+  - Accompagnement dans la création
+  - Formation à l'entrepreneuriat
+  - Aide au financement
+  - Suivi post-création
+
+## 3. OFFRES D'EMPLOI
+
+### Consultation des offres :
+- Site web ANAPEC (espace candidat)
+- Application mobile
+- Affichage en agence
+- Réseaux sociaux
+
+### Candidature :
+1. Sélectionner une offre
+2. Postuler en ligne ou en agence
+3. Suivre le statut de la candidature
+4. Réponse de l'employeur via ANAPEC
+
+## 4. FORMATION PROFESSIONNELLE
+
+### Programmes disponibles :
+- **Formation qualifiante** : Métiers en demande
+- **Formation en alternance** : Théorie + pratique en entreprise
+- **Certification** : Préparation aux certifications professionnelles
+- **Langues** : Français, anglais, etc.
+
+### Comment bénéficier :
+1. Être inscrit à l'ANAPEC
+2. Identifier le besoin de formation avec son conseiller
+3. S'inscrire au programme choisi
+4. Suivre la formation
+5. Obtenir l'attestation/certification
+
+## 5. SERVICES AUX ENTREPRISES
+
+### Recrutement :
+- Diffusion d'offres
+- Présélection des candidats
+- Organisation des entretiens
+- Tests de compétences
+
+### Formation en entreprise :
+- Plan de formation
+- Financement de la formation
+- Formation collective ou individuelle
+
+## 📞 Contacts
+- **Numéro vert** : 080 200 33 33
+- **Site web** : www.anapec.org
+- **Application** : ANAPEC Mobile
+- **Email** : contact@anapec.org
+- **Adresses** : Agences dans toutes les villes du Maroc

@@ -1,0 +1,229 @@
+---
+titre: État Civil - Actes d'état civil
+organisme: Ministère de l'Intérieur - Communes
+type_procedure: Acte de naissance, certificat de mariage, acte de décès
+source: service-public.ma
+date_mise_a_jour: 2024
+---
+
+# État Civil au Maroc - Guide Complet
+
+## 📋 Présentation
+L'état civil au Maroc enregistre tous les événements majeurs de la vie des citoyens : naissances, mariages et décès. La gestion est assurée par les communes (arrondissements) et les consulats pour les Marocains résidant à l'étranger.
+
+## 1. ACTE DE NAISSANCE
+
+### Qu'est-ce que c'est ?
+Document officiel qui atteste de la naissance d'une personne. Il existe deux types :
+- **Extrait d'acte de naissance** : Résumé des informations principales
+- **Copie intégrale** : Reproduction complète de l'acte original
+
+### Déclaration de naissance
+
+#### Délai légal :
+- **30 jours** suivant l'accouchement
+- Pour les naissances à l'étranger : 30 jours auprès du consulat
+
+#### Documents nécessaires :
+1. Certificat d'accouchement (délivré par l'hôpital ou la clinique)
+2. CNI des parents
+3. Acte de mariage des parents (si mariés)
+4. Livret de famille (si existant)
+5. Déclaration sur l'honneur (pour les pères non mariés)
+
+#### Lieu de déclaration :
+- Bureau d'état civil de la commune de naissance
+- Bureau d'état civil de la résidence des parents
+- Consulat (pour les naissances à l'étranger)
+
+### Demande d'acte de naissance
+
+#### Qui peut demander ?
+- La personne concernée (si majeure)
+- Les parents (pour leurs enfants)
+- Le conjoint
+- Les enfants (pour leurs parents décédés)
+- Les avocats et notaires (pour leurs dossiers)
+
+#### Documents pour la demande :
+1. CNI du demandeur
+2. Formulaire de demande
+3. Timbre fiscal (variable selon l'usage)
+4. Pour les mineurs : autorisation des parents
+
+#### Où demander ?
+- **Au Maroc** : Commune de naissance ou de résidence
+- **En ligne** : www.service-public.ma ou www.idarati.ma
+- **À l'étranger** : Consulat marocain
+
+### Délais et coûts
+- **Délai** : Immédiat (sur place) à 48h (en ligne)
+- **Coût** : 
+  - Extrait : 20 DH (timbre fiscal)
+  - Copie intégrale : 30 DH (timbre fiscal)
+  - En ligne : Frais supplémentaires de traitement
+
+## 2. CERTIFICAT DE MARIAGE
+
+### Préparation du mariage
+
+#### Conditions légales :
+- **Âge minimum** : 18 ans (hommes et femmes)
+- **Consentement** : Libre et éclairé des deux époux
+- **Absence d'empêchement** : Pas de lien de parenté prohibé, pas de mariage existant
+
+#### Documents préalables (pour le dossier) :
+**Pour le futur époux :**
+1. CNI
+2. Acte de naissance (moins de 3 mois)
+3. Certificat médical prénuptial (moins de 3 mois)
+4. Attestation de résidence
+5. Certificat de capacité matrimoniale (pour les convertis)
+
+**Pour la future épouse :**
+1. CNI
+2. Acte de naissance (moins de 3 mois)
+3. Certificat médical prénuptial
+4. Attestation de résidence
+
+**Documents communs :**
+- Photocopies des CNI des témoins (2 témoins musulmans)
+- Attestation de celibat ou de divorce/décès (si applicable)
+- Consentement du tuteur matrimonial (pour les femmes selon la procédure)
+
+### Célébration du mariage
+
+#### Étapes :
+1. **Dépôt du dossier** au bureau de l'état civil (Adoul pour les musulmans, tribunal pour les autres confessions)
+2. **Enquête sociale** (vérification des informations)
+3. **Publication des bans** (affichage pendant 15 jours)
+4. **Célébration** devant l'officier d'état civil ou les Adoul
+5. **Enregistrement** et délivrance du livret de famille
+
+#### Lieu de célébration :
+- Commune de résidence de l'un des époux
+- Pour les Marocains résidant à l'étranger : Consulat
+
+### Demande de copie d'acte de mariage
+
+#### Documents nécessaires :
+1. CNI du demandeur
+2. Livret de famille (si disponible)
+3. Timbre fiscal
+4. Formulaire de demande
+
+#### Où demander ?
+- Commune où le mariage a été célébré
+- En ligne : www.service-public.ma
+- Consulat (pour les mariages célébrés à l'étranger)
+
+### Coût :
+- **Copie simple** : 20 DH
+- **Copie intégrale** : 30 DH
+
+## 3. ACTE DE DÉCÈS
+
+### Déclaration de décès
+
+#### Qui doit déclarer ?
+- Les proches du défunt (conjoint, enfants, parents)
+- L'hôpital ou la clinique
+- Les pompes funèbres
+- Toute personne présente au moment du décès
+
+#### Délai légal :
+- **3 jours** maximum après le décès
+- Immédiat pour les décès suspects
+
+#### Documents nécessaires :
+1. Certificat médical de décès (délivré par un médecin)
+2. CNI du défunt
+3. CNI du déclarant
+4. Livret de famille (si disponible)
+
+#### Lieu de déclaration :
+- Bureau d'état civil de la commune du décès
+- Bureau d'état civil de la résidence du défunt
+- Consulat (pour les décès à l'étranger)
+
+### Permis d'inhumer
+Délivré après la déclaration de décès, il autorise l'enterrement.
+
+### Acte de décès
+
+#### Mentions obligatoires :
+- Date et lieu du décès
+- Identité complète du défunt
+- Identité des parents du défunt
+- Date et lieu de naissance
+- Profession
+- Dernier domicile
+
+#### Demande de copie d'acte de décès :
+**Documents :**
+1. CNI du demandeur
+2. Justificatif du lien avec le défunt (si nécessaire)
+3. Timbre fiscal
+
+**Coût :** 20 DH
+
+### Conséquences juridiques du décès :
+- Ouverture de la succession
+- Dissolution du mariage
+- Radiation des listes électorales
+- Clôture des comptes bancaires
+- Liquidation des pensions (réversion)
+
+## 4. CAS PARTICULIERS
+
+### Actes d'état civil pour les Marocains à l'étranger
+- **Compétence** : Consulat ou ambassade du Maroc
+- **Délais** : Variables selon le pays
+- **Coûts** : Frais consulaires supplémentaires
+- **Transcription** : Les actes doivent être transcrits au Maroc
+
+### Actes d'état civil pour les étrangers au Maroc
+- **Naissance** : Déclaration à la commune + consulat du pays d'origine
+- **Mariage** : Célébration possible selon la loi marocaine
+- **Décès** : Déclaration à la commune + information du consulat
+
+### Jugements supplétifs
+**Quand ?** 
+- Acte d'état civil jamais établi
+- Acte perdu ou détruit
+- Registres d'état civil endommagés
+
+**Procédure :**
+1. Saisine du tribunal de première instance
+2. Enquête (témoins, documents)
+3. Jugement tenant lieu d'acte
+4. Transcription sur les registres
+
+## 5. RECTIFICATION D'ACTES D'ÉTAT CIVIL
+
+### Erreurs pouvant être rectifiées :
+- Orthographe des noms
+- Dates incorrectes
+- Lieux erronés
+- Omission de mentions
+
+### Procédure administrative (erreurs mineures) :
+1. Constitution du dossier (acte original, CNI, justificatifs)
+2. Dépôt à la commune ou au consulat
+3. Décision dans un délai de 30 jours
+
+### Procédure judiciaire (erreurs majeures) :
+1. Saisine du tribunal
+2. Expertise si nécessaire
+3. Jugement de rectification
+4. Transcription sur les registres
+
+## 📞 Contacts utiles
+- **Ministère de l'Intérieur** : 05 37 27 37 37
+- **État civil en ligne** : www.idarati.ma
+- **Consulats marocains** : www.diplomatie.ma
+
+## 🔗 Liens utiles
+- Demande d'acte en ligne : www.service-public.ma
+- Guide des procédures : www.maroc.ma
+- Tarifs des timbres fiscaux : www.finances.gov.ma

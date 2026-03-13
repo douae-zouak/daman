@@ -1,0 +1,508 @@
+[
+  {
+    "id": 1,
+    "question_fr": "Comment obtenir la CIN pour la première fois ?",
+    "question_ar": "كيف يمكن الحصول على البطاقة الوطنية للتعريف لأول مرة؟",
+    "answer_fr": "Pour obtenir la Carte Nationale d’Identité Électronique (CNIE) pour la première fois, il faut prendre rendez‑vous sur le portail de la DGSN, remplir le formulaire, fournir un extrait d’acte de naissance, un certificat de résidence, deux photos récentes conformes, et payer les frais de timbre. La demande est déposée au commissariat ou au centre d’enregistrement.",
+    "answer_ar": "للحصول على البطاقة الوطنية للتعريف الإلكترونية لأول مرة يجب حجز موعد عبر بوابة الأمن الوطني، تعبئة الاستمارة، تقديم نسخة من عقد الازدياد، شهادة السكنى، صورتين حديثتين مطابقـتين للمعايير، وأداء واجب الطابع. يتم إيداع الطلب في مركز التسجيل أو مفوضية الشرطة.",
+    "category": "CIN",
+    "source": "service-public.ma",
+    "keywords": ["CIN", "CNIE", "première demande", "maroc", "documents"]
+  },
+  {
+    "id": 2,
+    "question_fr": "Comment renouveler la CIN ?",
+    "question_ar": "كيف يتم تجديد البطاقة الوطنية للتعريف؟",
+    "answer_fr": "Le renouvellement de la CNIE se fait en prenant rendez‑vous en ligne. Il faut fournir l’ancienne carte, une copie d’acte de naissance si les informations ont changé, un justificatif de domicile et des photos récentes.",
+    "answer_ar": "يتم تجديد البطاقة الوطنية عبر حجز موعد مسبق عبر الإنترنت. يجب تقديم البطاقة القديمة، نسخة من عقد الازدياد في حالة تغيير المعلومات، شهادة السكنى، وصور حديثة.",
+    "category": "CIN",
+    "source": "service-public.ma",
+    "keywords": ["CIN", "CNIE", "renouvellement", "maroc", "documents"]
+  },
+  {
+    "id": 3,
+    "question_fr": "Que faire en cas de perte de CIN ?",
+    "question_ar": "ماذا أفعل في حالة ضياع البطاقة الوطنية؟",
+    "answer_fr": "Il faut déclarer la perte auprès de la police ou de la gendarmerie, obtenir un certificat de perte puis déposer une demande de remplacement avec les documents habituels.",
+    "answer_ar": "يجب التصريح بالضياع لدى الشرطة أو الدرك الملكي والحصول على شهادة الضياع، ثم تقديم طلب الحصول على بطاقة جديدة مع الوثائق المطلوبة.",
+    "category": "CIN",
+    "source": "service-public.ma",
+    "keywords": ["CIN", "CNIE", "perte", "remplacement", "maroc"]
+  },
+  {
+    "id": 4,
+    "question_fr": "Combien coûte la CIN ?",
+    "question_ar": "كم تبلغ تكلفة البطاقة الوطنية للتعريف الإلكترونية في المغرب؟",
+    "answer_fr": "Le coût de la Carte Nationale d’Identité Électronique (CNIE) au Maroc est généralement de 75 dirhams sous forme de timbre fiscal. Ce montant doit être payé lors du dépôt de la demande de la carte auprès du commissariat de police ou du centre d’enregistrement relevant de la Direction Générale de la Sûreté Nationale.",
+    "answer_ar": "تبلغ تكلفة البطاقة الوطنية للتعريف الإلكترونية في المغرب عادة 75 درهماً على شكل طابع جبائي. يتم أداء هذا المبلغ عند تقديم طلب الحصول على البطاقة لدى مفوضية الشرطة أو مركز التسجيل التابع للمديرية العامة للأمن الوطني.",
+    "category": "CIN",
+    "source": "service-public.ma",
+    "keywords": ["CIN", "CNIE", "coût", "maroc", "timbre fiscal"]
+  },
+  {
+    "id": 5,
+    "question_fr": "Combien de temps pour recevoir la CIN ?",
+    "question_ar": "كم تستغرق مدة الحصول على البطاقة الوطنية للتعريف؟",
+    "answer_fr": "Le délai moyen pour recevoir la Carte Nationale d’Identité Électronique au Maroc est généralement d’environ 7 à 15 jours ouvrables après le dépôt complet du dossier et la validation des données biométriques. Le délai peut varier selon la ville et le volume de demandes.",
+    "answer_ar": "تتراوح مدة الحصول على البطاقة الوطنية للتعريف الإلكترونية في المغرب عادة بين 7 و15 يوم عمل بعد إيداع الملف كاملاً وتأكيد المعطيات البيومترية. وقد تختلف المدة حسب المدينة وعدد الطلبات.",
+    "category": "CIN",
+    "source": "service-public.ma",
+    "keywords": ["CIN", "CNIE", "délai", "maroc", "biométrie"]
+  },
+  {
+    "id": 6,
+    "question_fr": "Comment changer l’adresse sur la CIN ?",
+    "question_ar": "كيف يمكن تغيير العنوان في البطاقة الوطنية للتعريف؟",
+    "answer_fr": "Pour changer l’adresse sur la Carte Nationale d’Identité Électronique, il faut déposer une demande de renouvellement de la carte auprès du commissariat ou du centre d’enregistrement. Le demandeur doit fournir l’ancienne carte, un justificatif de domicile récent (certificat de résidence ou facture) et remplir le formulaire de demande de mise à jour des informations.",
+    "answer_ar": "لتغيير العنوان في البطاقة الوطنية للتعريف الإلكترونية يجب تقديم طلب تجديد البطاقة لدى مفوضية الشرطة أو مركز التسجيل. يجب الإدلاء بالبطاقة القديمة، وشهادة السكنى أو وثيقة تثبت العنوان الجديد، وتعبئة استمارة تحديث المعلومات.",
+    "category": "CIN",
+    "source": "service-public.ma",
+    "keywords": ["CIN", "CNIE", "adresse", "mise à jour", "maroc"]
+  },
+  {
+    "id": 7,
+    "question_fr": "Comment faire un passeport biométrique marocain ?",
+    "question_ar": "كيف يمكن الحصول على جواز سفر بيومتري مغربي؟",
+    "answer_fr": "Pour obtenir un passeport biométrique marocain, il faut d’abord prendre rendez-vous en ligne sur le portail de la Direction Générale de la Sûreté Nationale (DGSN). Le demandeur doit ensuite remplir le formulaire de demande, préparer les documents nécessaires et acheter un timbre fiscal. Le dossier complet est déposé au commissariat de police ou au centre d’enregistrement correspondant au lieu de résidence. Les données biométriques sont collectées lors du dépôt du dossier et le passeport peut être retiré après traitement de la demande.",
+    "answer_ar": "للحصول على جواز سفر بيومتري مغربي يجب أولاً حجز موعد عبر البوابة الإلكترونية للمديرية العامة للأمن الوطني. بعد ذلك يجب تعبئة استمارة الطلب وإعداد الوثائق المطلوبة واقتناء الطابع الجبائي. يتم إيداع الملف كاملاً لدى مفوضية الشرطة أو مركز التسجيل التابع لمحل السكن، حيث يتم أخذ المعطيات البيومترية ومعالجة الطلب قبل تسليم جواز السفر.",
+    "category": "passeport",
+    "source": "service-public.ma",
+    "keywords": ["passeport", "biométrique", "maroc", "documents"]
+  },
+  {
+    "id": 8,
+    "question_fr": "Documents nécessaires pour le passeport",
+    "question_ar": "ما هي الوثائق المطلوبة للحصول على جواز السفر المغربي؟",
+    "answer_fr": "Les documents généralement requis pour obtenir un passeport biométrique marocain sont : la Carte Nationale d’Identité Électronique (CNIE) valide, le formulaire de demande rempli et signé, des photos d’identité récentes conformes aux normes administratives et un timbre fiscal correspondant aux frais du passeport. Dans certains cas, un justificatif de résidence peut également être demandé.",
+    "answer_ar": "الوثائق المطلوبة عادة للحصول على جواز السفر البيومتري المغربي هي: البطاقة الوطنية للتعريف الإلكترونية سارية المفعول، استمارة الطلب معبأة وموقعة، صور شخصية حديثة مطابقة للمعايير الإدارية، وطابع جبائي يثبت أداء الرسوم. وقد يُطلب أيضاً إثبات السكن في بعض الحالات.",
+    "category": "passeport",
+    "source": "service-public.ma",
+    "keywords": ["passeport", "documents", "maroc", "CNIE"]
+  },
+  {
+    "id": 9,
+    "question_fr": "Comment renouveler un passeport ?",
+    "question_ar": "كيف يتم تجديد جواز السفر المغربي؟",
+    "answer_fr": "Pour renouveler un passeport marocain, il faut prendre rendez-vous en ligne sur le portail de la DGSN, préparer les documents nécessaires et déposer une nouvelle demande auprès du commissariat de police ou du centre d’enregistrement. L’ancien passeport doit être présenté lors du dépôt de la demande afin qu’il soit annulé et remplacé par un nouveau passeport biométrique.",
+    "answer_ar": "لتجديد جواز السفر المغربي يجب حجز موعد مسبق عبر بوابة المديرية العامة للأمن الوطني، إعداد الوثائق المطلوبة، ثم تقديم طلب جديد لدى مفوضية الشرطة أو مركز التسجيل. يجب الإدلاء بجواز السفر القديم عند إيداع الملف ليتم إلغاؤه وتعويضه بجواز جديد.",
+    "category": "passeport",
+    "source": "service-public.ma",
+    "keywords": ["passeport", "renouvellement", "maroc", "CNIE"]
+  },
+  {
+    "id": 10,
+    "question_fr": "Passeport pour mineur",
+    "question_ar": "كيف يمكن الحصول على جواز سفر لطفل قاصر؟",
+    "answer_fr": "La demande de passeport pour un mineur doit être effectuée par le père, la mère ou le tuteur légal. Les documents nécessaires incluent généralement l’acte de naissance du mineur, la Carte Nationale d’Identité du parent ou du tuteur, des photos d’identité récentes du mineur et une autorisation parentale si nécessaire. La demande est déposée auprès du commissariat de police après prise de rendez-vous.",
+    "answer_ar": "بالنسبة للقاصر، يجب أن يتم طلب جواز السفر من طرف الأب أو الأم أو الولي القانوني. تشمل الوثائق المطلوبة عادة نسخة من عقد ازدياد الطفل، البطاقة الوطنية للوالد أو الولي، صور شخصية حديثة للقاصر، وقد يتطلب الأمر موافقة أحد الوالدين حسب الحالة. يتم إيداع الطلب لدى مفوضية الشرطة بعد حجز موعد مسبق.",
+    "category": "passeport",
+    "source": "service-public.ma",
+    "keywords": ["passeport", "mineur", "documents", "maroc"]
+  },
+  {
+    "id": 11,
+    "question_fr": "Que faire en cas de perte de passeport ?",
+    "question_ar": "ماذا يجب فعله في حالة ضياع جواز السفر؟",
+    "answer_fr": "En cas de perte ou de vol du passeport marocain, il faut déclarer immédiatement la perte auprès de la police ou de la gendarmerie afin d’obtenir une attestation de perte. Cette attestation doit être jointe au dossier lors de la demande d’un nouveau passeport. Le demandeur doit ensuite suivre la procédure normale de demande de passeport en fournissant les documents requis.",
+    "answer_ar": "في حالة ضياع أو سرقة جواز السفر المغربي يجب التصريح فوراً لدى الشرطة أو الدرك الملكي للحصول على شهادة ضياع. يجب إرفاق هذه الشهادة بملف طلب جواز سفر جديد. بعد ذلك يتم اتباع الإجراءات العادية لطلب جواز السفر مع تقديم الوثائق المطلوبة.",
+    "category": "passeport",
+    "source": "service-public.ma",
+    "keywords": ["passeport", "perte", "vol", "maroc"]
+  },
+  {
+    "id": 12,
+    "question_fr": "Comment obtenir un acte de naissance ?",
+    "question_ar": "كيف يمكن الحصول على نسخة من عقد الازدياد؟",
+    "answer_fr": "Pour obtenir un acte de naissance au Maroc, il faut se rendre au bureau de l’état civil de la commune où la naissance a été enregistrée. La demande peut être faite par la personne concernée, un parent proche ou un représentant légal. Il faut généralement présenter la Carte Nationale d’Identité et fournir les informations nécessaires telles que le nom complet, la date de naissance et le lieu de naissance. Dans certaines communes, la demande peut également être effectuée en ligne via les services administratifs numériques.",
+    "answer_ar": "للحصول على نسخة من عقد الازدياد في المغرب يجب التوجه إلى مكتب الحالة المدنية بالجماعة التي تم تسجيل الولادة فيها. يمكن تقديم الطلب من طرف الشخص المعني أو أحد أقاربه أو ممثله القانوني. عادة يجب الإدلاء بالبطاقة الوطنية للتعريف وتقديم معلومات مثل الاسم الكامل وتاريخ ومكان الازدياد. كما يمكن في بعض الحالات تقديم الطلب عبر الخدمات الإدارية الإلكترونية.",
+    "category": "etat-civil",
+    "source": "service-public.ma",
+    "keywords": ["acte de naissance", "état civil", "demande", "maroc"]
+  },
+  {
+    "id": 13,
+    "question_fr": "Comment corriger une erreur sur un acte de naissance ?",
+    "question_ar": "كيف يمكن تصحيح خطأ في عقد الازدياد؟",
+    "answer_fr": "Pour corriger une erreur dans un acte de naissance au Maroc, il faut déposer une demande de rectification auprès du tribunal de première instance compétent. Le demandeur doit fournir l’acte de naissance contenant l’erreur ainsi que les documents justificatifs prouvant l’information correcte. Après examen du dossier, le tribunal peut ordonner la rectification dans les registres de l’état civil.",
+    "answer_ar": "لتصحيح خطأ في عقد الازدياد بالمغرب يجب تقديم طلب تصحيح إلى المحكمة الابتدائية المختصة. يجب إرفاق نسخة من عقد الازدياد الذي يحتوي على الخطأ مع الوثائق التي تثبت المعلومة الصحيحة. بعد دراسة الملف يمكن للمحكمة إصدار حكم يقضي بتصحيح الخطأ في سجلات الحالة المدنية.",
+    "category": "etat-civil",
+    "source": "service-public.ma",
+    "keywords": ["acte de naissance", "rectification", "tribunal", "maroc"]
+  },
+  {
+    "id": 14,
+    "question_fr": "Comment déclarer une naissance ?",
+    "question_ar": "كيف يتم التصريح بولادة طفل؟",
+    "answer_fr": "La naissance d’un enfant doit être déclarée auprès du bureau de l’état civil de la commune du lieu de naissance dans un délai légal de 30 jours. La déclaration est généralement effectuée par le père, un membre de la famille ou le personnel de l’établissement de santé. Les documents nécessaires incluent le certificat médical de naissance, la Carte Nationale d’Identité des parents et éventuellement le livret de famille.",
+    "answer_ar": "يجب التصريح بولادة طفل لدى مكتب الحالة المدنية بالجماعة التي وقعت فيها الولادة داخل أجل قانوني قدره 30 يوماً. يتم التصريح عادة من طرف الأب أو أحد أفراد الأسرة أو من طرف المؤسسة الصحية التي تمت فيها الولادة. تشمل الوثائق المطلوبة شهادة الولادة الطبية والبطاقة الوطنية للوالدين وقد يُطلب أيضاً الدفتر العائلي.",
+    "category": "etat-civil",
+    "source": "service-public.ma",
+    "keywords": ["déclaration naissance", "état civil", "maroc"]
+  },
+  {
+    "id": 15,
+    "question_fr": "Comment obtenir un certificat de vie ?",
+    "question_ar": "كيف يمكن الحصول على شهادة الحياة؟",
+    "answer_fr": "Pour obtenir un certificat de vie au Maroc, il faut se rendre au bureau d’état civil ou au bureau administratif de la commune de résidence. Le demandeur doit présenter sa Carte Nationale d’Identité afin de confirmer son identité et sa présence. Le certificat de vie est souvent demandé pour certaines démarches administratives comme les pensions ou les procédures judiciaires.",
+    "answer_ar": "للحصول على شهادة الحياة في المغرب يجب التوجه إلى مكتب الحالة المدنية أو المكتب الإداري التابع للجماعة التي يقيم فيها الشخص. يجب الإدلاء بالبطاقة الوطنية للتعريف لإثبات الهوية والحضور الشخصي. غالباً ما تُطلب شهادة الحياة في بعض الإجراءات الإدارية مثل ملفات التقاعد أو الإجراءات القضائية.",
+    "category": "etat-civil",
+    "source": "service-public.ma",
+    "keywords": ["certificat de vie", "état civil", "maroc"]
+  },
+  {
+    "id": 16,
+    "question_fr": "Conditions pour se marier au Maroc",
+    "question_ar": "ما هي شروط الزواج في المغرب؟",
+    "answer_fr": "Pour se marier au Maroc, les conditions principales sont : être majeur, ne pas avoir de lien de parenté prohibé, obtenir le consentement mutuel des deux parties et respecter les formalités légales de la Moudawana. Les futurs époux doivent également ne pas être déjà mariés à d'autres conjoints si la polygamie n'est pas prévue, et fournir les documents d’état civil nécessaires.",
+    "answer_ar": "للزواج في المغرب، الشروط الرئيسية هي: بلوغ سن الرشد، عدم وجود صلة قرابة محظورة، موافقة الطرفين، واحترام الإجراءات القانونية المنصوص عليها في مدونة الأسرة (الموداوانا). يجب على الزوجين أيضاً ألا يكونا متزوجين من طرف آخر إذا لم يُسمح بتعدد الزوجات، وتقديم الوثائق المطلوبة للحالة المدنية.",
+    "category": "mariage",
+    "source": "service-public.ma",
+    "keywords": ["mariage", "conditions", "maroc", "moudawana"]
+  },
+  {
+    "id": 17,
+    "question_fr": "Documents nécessaires pour mariage",
+    "question_ar": "ما هي الوثائق المطلوبة للزواج؟",
+    "answer_fr": "Les documents nécessaires pour un mariage au Maroc incluent généralement : un acte de naissance récent, la Carte Nationale d’Identité, un certificat médical prénuptial, une attestation de célibat ou de capacité matrimoniale, et dans certains cas une autorisation parentale si l’un des époux est mineur.",
+    "answer_ar": "الوثائق المطلوبة عادة للزواج في المغرب تشمل: نسخة حديثة من عقد الازدياد، البطاقة الوطنية للتعريف، شهادة طبية قبل الزواج، شهادة العزوبة أو القدرة على الزواج، وفي بعض الحالات إذن من الوالدين إذا كان أحد الزوجين قاصراً.",
+    "category": "mariage",
+    "source": "service-public.ma",
+    "keywords": ["mariage", "documents", "maroc"]
+  },
+  {
+    "id": 18,
+    "question_fr": "Comment demander un divorce au Maroc ?",
+    "question_ar": "كيف يمكن طلب الطلاق في المغرب؟",
+    "answer_fr": "Pour demander un divorce au Maroc, il faut déposer une requête auprès du tribunal de la famille compétent. La procédure varie selon le type de divorce : par consentement mutuel ou pour discorde. Le juge examine la demande, peut convoquer une séance de conciliation, puis prononce le divorce et fixe les conditions relatives à la garde des enfants et à la pension alimentaire.",
+    "answer_ar": "لتقديم طلب الطلاق في المغرب يجب تقديم عريضة إلى المحكمة المختصة بالأحوال الشخصية. تختلف الإجراءات حسب نوع الطلاق: بالتراضي أو للخصومة. يقوم القاضي بدراسة الطلب وقد يعقد جلسة صلح، ثم يصدر حكم الطلاق ويحدد شروط حضانة الأطفال ونفقة الزوجة إذا لزم.",
+    "category": "divorce",
+    "source": "service-public.ma",
+    "keywords": ["divorce", "tribunal", "maroc", "famille"]
+  },
+  {
+    "id": 19,
+    "question_fr": "Quels sont les types de divorce ?",
+    "question_ar": "ما هي أنواع الطلاق؟",
+    "answer_fr": "Au Maroc, les principaux types de divorce sont :\n1. Divorce par consentement mutuel (les deux époux sont d'accord)\n2. Divorce pour discorde ou faute (un époux demande le divorce pour des motifs précis tels que l'abandon, la violence, l’adultère)\n3. Divorce judiciaire prononcé par le tribunal en cas de litige ou impossibilité de conciliation.",
+    "answer_ar": "في المغرب، الأنواع الرئيسية للطلاق هي:\n1. الطلاق بالتراضي (اتفاق الزوجين)\n2. الطلاق للخصومة أو بسبب خطأ (يطلبه أحد الزوجين لأسباب محددة مثل الهجر، العنف، الزنا)\n3. الطلاق القضائي يصدره القاضي في حالة النزاع أو عدم إمكانية الصلح.",
+    "category": "divorce",
+    "source": "service-public.ma",
+    "keywords": ["divorce", "types de divorce", "maroc"]
+  },
+  {
+    "id": 20,
+    "question_fr": "Comment demander la garde d’un enfant ?",
+    "question_ar": "كيف يمكن طلب حضانة طفل؟",
+    "answer_fr": "Pour demander la garde d’un enfant au Maroc, il faut déposer une requête auprès du tribunal de la famille. Le juge prend en compte l’intérêt supérieur de l’enfant, la capacité des parents à s’occuper de l’enfant, et les accords existants entre les parents. Le juge peut attribuer la garde exclusive à un parent ou une garde partagée selon les circonstances.",
+    "answer_ar": "لطلب حضانة طفل في المغرب يجب تقديم طلب إلى المحكمة المختصة بالأحوال الشخصية. يأخذ القاضي في الاعتبار مصلحة الطفل الفضلى، قدرة الوالدين على رعاية الطفل، وأي اتفاقات موجودة بين الوالدين. يمكن للقاضي منح الحضانة لأحد الوالدين فقط أو الحضانة المشتركة حسب الظروف.",
+    "category": "famille",
+    "source": "service-public.ma",
+    "keywords": ["garde d'enfant", "tribunal", "famille", "maroc"]
+  },
+  {
+    "id": 21,
+    "question_fr": "Quels sont les droits du salarié au Maroc ?",
+    "question_ar": "ما هي حقوق الموظف في المغرب؟",
+    "answer_fr": "Les droits des salariés au Maroc incluent : le respect du contrat de travail, le droit à un salaire minimum légal, les congés annuels payés, la sécurité sociale via la CNSS, la protection contre le licenciement abusif, le droit à un environnement de travail sûr, et le droit à des indemnités en cas de licenciement ou de départ à la retraite.",
+    "answer_ar": "تشمل حقوق الموظفين في المغرب: احترام عقد العمل، الحق في الحد الأدنى للأجور القانوني، الإجازات السنوية المدفوعة، التأمينات الاجتماعية عبر الصندوق الوطني للضمان الاجتماعي، الحماية من الفصل التعسفي، الحق في بيئة عمل آمنة، والحق في التعويضات في حالة الفصل أو التقاعد.",
+    "category": "travail",
+    "source": "code-travail.ma",
+    "keywords": ["droits salarié", "travail", "CNSS", "maroc"]
+  },
+  {
+    "id": 22,
+    "question_fr": "Comment rédiger un contrat de travail ?",
+    "question_ar": "كيف يتم صياغة عقد العمل؟",
+    "answer_fr": "Pour rédiger un contrat de travail au Maroc, il faut inclure : l'identité des parties (employeur et salarié), la description du poste, la durée du contrat (CDD ou CDI), le salaire, les horaires de travail, les congés, les obligations des deux parties et les clauses de résiliation. Le contrat doit être écrit et signé par les deux parties, et une copie doit être déposée auprès de l’Inspection du travail si nécessaire.",
+    "answer_ar": "لصياغة عقد العمل في المغرب يجب تضمين: هوية الطرفين (صاحب العمل والموظف)، وصف الوظيفة، مدة العقد (مؤقت أو دائم)، الراتب، ساعات العمل، الإجازات، التزامات الطرفين، وبنود الإنهاء. يجب أن يكون العقد مكتوباً وموقعاً من الطرفين، ويمكن تقديم نسخة إلى مفتشية العمل إذا لزم الأمر.",
+    "category": "travail",
+    "source": "code-travail.ma",
+    "keywords": ["contrat de travail", "CDD", "CDI", "maroc"]
+  },
+  {
+    "id": 23,
+    "question_fr": "Salaire minimum au Maroc ?",
+    "question_ar": "ما هو الحد الأدنى للأجور في المغرب؟",
+    "answer_fr": "Le salaire minimum légal au Maroc dépend du secteur : pour l’industrie et le commerce, il est d’environ 3600 dirhams par mois (SMIG), tandis que pour l’agriculture, il est légèrement inférieur. Ces montants peuvent être révisés périodiquement par le gouvernement.",
+    "answer_ar": "الحد الأدنى القانوني للأجور في المغرب يعتمد على القطاع: بالنسبة للصناعة والتجارة حوالي 3600 درهم شهرياً (SMIG)، أما في الزراعة فهو أقل قليلاً. يتم مراجعة هذه المبالغ بشكل دوري من قبل الحكومة.",
+    "category": "travail",
+    "source": "code-travail.ma",
+    "keywords": ["salaire minimum", "SMIG", "travail", "maroc"]
+  },
+  {
+    "id": 24,
+    "question_fr": "Combien de jours de congé payé ?",
+    "question_ar": "كم عدد أيام الإجازة المدفوعة؟",
+    "answer_fr": "Au Maroc, un salarié a droit à au moins 18 jours ouvrables de congés payés par an après une année complète de travail. Des jours supplémentaires peuvent être accordés selon les conventions collectives ou le contrat de travail.",
+    "answer_ar": "في المغرب، يحق للموظف الحصول على 18 يوماً عمل على الأقل من الإجازة المدفوعة سنوياً بعد سنة كاملة من العمل. ويمكن منح أيام إضافية وفقاً للاتفاقيات الجماعية أو العقد.",
+    "category": "travail",
+    "source": "code-travail.ma",
+    "keywords": ["congé payé", "jours de congé", "travail", "maroc"]
+  },
+  {
+    "id": 25,
+    "question_fr": "Comment déclarer un salarié ?",
+    "question_ar": "كيف يتم تسجيل موظف في المغرب؟",
+    "answer_fr": "Pour déclarer un salarié au Maroc, l’employeur doit l’inscrire auprès de la CNSS via le portail officiel. Il faut fournir l’identité du salarié, le contrat de travail, le salaire et les informations relatives à la couverture sociale. Cette déclaration permet au salarié de bénéficier de la sécurité sociale et des prestations légales.",
+    "answer_ar": "لتسجيل موظف في المغرب يجب على صاحب العمل إدراجه لدى الصندوق الوطني للضمان الاجتماعي عبر البوابة الرسمية. يجب تقديم هوية الموظف، عقد العمل، الراتب والمعلومات المتعلقة بالتغطية الاجتماعية. يتيح هذا التسجيل للموظف الاستفادة من الضمان الاجتماعي والمستحقات القانونية.",
+    "category": "cnss",
+    "source": "cnss.ma",
+    "keywords": ["déclaration salarié", "CNSS", "sécurité sociale", "maroc"]
+  },
+  {
+    "id": 26,
+    "question_fr": "Indemnité de licenciement ?",
+    "question_ar": "ما هي التعويضات في حالة الفصل من العمل؟",
+    "answer_fr": "En cas de licenciement, un salarié marocain a droit à une indemnité légale dont le montant dépend de l’ancienneté et du type de contrat. Pour un licenciement abusif, des indemnités supplémentaires peuvent être accordées. Les modalités exactes sont définies par le Code du travail et la jurisprudence marocaine.",
+    "answer_ar": "في حالة الفصل من العمل، يحق للموظف المغربي الحصول على تعويض قانوني يعتمد على مدة الخدمة ونوع العقد. في حالة الفصل التعسفي، يمكن منح تعويضات إضافية. تحدد التفاصيل الدقيقة وفقاً لقانون العمل والف jurisprudence المغربية.",
+    "category": "travail",
+    "source": "code-travail.ma",
+    "keywords": ["licenciement", "indemnité", "travail", "maroc"]
+  },
+  {
+    "id": 27,
+    "question_fr": "Comment créer un compte CNSS ?",
+    "question_ar": "كيف يمكن إنشاء حساب في الصندوق الوطني للضمان الاجتماعي؟",
+    "answer_fr": "Pour créer un compte CNSS, le salarié ou l’employeur doit s’inscrire sur le portail officiel de la CNSS. Il faut fournir les informations personnelles (nom, CIN, date de naissance), l’adresse, le numéro d’immatriculation pour les employeurs, et créer un identifiant et un mot de passe pour accéder aux services en ligne.",
+    "answer_ar": "لإنشاء حساب في الصندوق الوطني للضمان الاجتماعي، يجب على الموظف أو صاحب العمل التسجيل عبر البوابة الرسمية للصندوق. يجب تقديم المعلومات الشخصية (الاسم، البطاقة الوطنية، تاريخ الازدياد)، العنوان، رقم التسجيل بالنسبة لأصحاب العمل، وإنشاء اسم مستخدم وكلمة مرور للوصول إلى الخدمات الإلكترونية.",
+    "category": "cnss",
+    "source": "cnss.ma",
+    "keywords": ["compte CNSS", "inscription", "sécurité sociale", "maroc"]
+  },
+  {
+    "id": 28,
+    "question_fr": "Comment consulter ses cotisations ?",
+    "question_ar": "كيف يمكن الاطلاع على اشتراكات الضمان الاجتماعي؟",
+    "answer_fr": "Les cotisations CNSS peuvent être consultées en ligne via le portail ou l’application mobile de la CNSS. Il faut se connecter avec son identifiant et mot de passe pour accéder à l’historique des cotisations, les montants versés, et l’état des prestations sociales.",
+    "answer_ar": "يمكن الاطلاع على اشتراكات الضمان الاجتماعي عبر الإنترنت من خلال البوابة الإلكترونية أو تطبيق الهاتف للصندوق الوطني للضمان الاجتماعي. يجب تسجيل الدخول باستخدام اسم المستخدم وكلمة المرور للوصول إلى تاريخ الاشتراكات، المبالغ المدفوعة، وحالة المستحقات.",
+    "category": "cnss",
+    "source": "cnss.ma",
+    "keywords": ["cotisations", "CNSS", "sécurité sociale", "maroc"]
+  },
+  {
+    "id": 29,
+    "question_fr": "Comment déclarer un employé à la CNSS ?",
+    "question_ar": "كيف يتم تسجيل موظف في الصندوق الوطني للضمان الاجتماعي؟",
+    "answer_fr": "Pour déclarer un salarié, l’employeur doit l’inscrire auprès de la CNSS via le portail officiel. Il faut fournir l’identité du salarié, le contrat de travail, le salaire, et les informations relatives à la couverture sociale. Cette déclaration permet au salarié de bénéficier de la sécurité sociale et des prestations légales.",
+    "answer_ar": "لتسجيل موظف في الصندوق الوطني للضمان الاجتماعي يجب على صاحب العمل إدراج الموظف عبر البوابة الرسمية للصندوق. يجب تقديم هوية الموظف، عقد العمل، الراتب والمعلومات المتعلقة بالتغطية الاجتماعية. يتيح هذا التسجيل للموظف الاستفادة من الضمان الاجتماعي والمستحقات القانونية.",
+    "category": "cnss",
+    "source": "cnss.ma",
+    "keywords": ["déclaration salarié", "CNSS", "sécurité sociale", "maroc"]
+  },
+  {
+    "id": 30,
+    "question_fr": "Comment demander une pension CNSS ?",
+    "question_ar": "كيف يمكن طلب معاش الضمان الاجتماعي؟",
+    "answer_fr": "Pour demander une pension CNSS, le salarié ou le retraité doit déposer une demande auprès de la CNSS en fournissant les documents nécessaires : carte d’identité, relevé de carrière, attestations de travail, et tout document prouvant les cotisations. La CNSS étudie le dossier et calcule le montant de la pension selon les règles en vigueur.",
+    "answer_ar": "لطلب معاش الضمان الاجتماعي، يجب على الموظف أو المتقاعد تقديم طلب لدى الصندوق الوطني للضمان الاجتماعي مع الوثائق اللازمة: البطاقة الوطنية، سجل الخدمة، شهادات العمل، وأي وثيقة تثبت الاشتراكات. يقوم الصندوق بدراسة الملف وحساب مبلغ المعاش وفقاً للقوانين المعمول بها.",
+    "category": "cnss",
+    "source": "cnss.ma",
+    "keywords": ["pension", "cotisations", "sécurité sociale", "maroc"]
+  },
+  {
+    "id": 31,
+    "question_fr": "Comment récupérer une attestation CNSS ?",
+    "question_ar": "كيف يمكن الحصول على شهادة من الصندوق الوطني للضمان الاجتماعي؟",
+    "answer_fr": "Pour obtenir une attestation CNSS, il faut se connecter au portail officiel de la CNSS ou se rendre directement au bureau local. L’attestation peut certifier l’inscription, le salaire déclaré, ou le montant des cotisations versées. Elle est souvent utilisée pour des démarches administratives ou bancaires.",
+    "answer_ar": "للحصول على شهادة من الصندوق الوطني للضمان الاجتماعي، يجب الدخول إلى البوابة الرسمية للصندوق أو التوجه مباشرة إلى المكتب المحلي. يمكن أن تثبت الشهادة التسجيل، الراتب المصرح به، أو مبلغ الاشتراكات المدفوعة. غالباً ما تُستخدم في الإجراءات الإدارية أو المصرفية.",
+    "category": "cnss",
+    "source": "cnss.ma",
+    "keywords": ["attestation", "cotisations", "sécurité sociale", "maroc"]
+  },
+  {
+    "id": 32,
+    "question_fr": "Comment bénéficier de AMO ?",
+    "question_ar": "كيف يمكن الاستفادة من التأمين الإجباري على المرض (AMO)؟",
+    "answer_fr": "Pour bénéficier de l'Assurance Maladie Obligatoire (AMO) au Maroc, il faut être salarié, travailleur indépendant ou éligible via un organisme spécifique (CNSS pour les salariés du secteur privé, CNOPS pour les fonctionnaires). L’assuré doit être inscrit et cotiser régulièrement. Une fois inscrit, il peut accéder aux prestations de santé couvertes par l’AMO.",
+    "answer_ar": "للاستفادة من التأمين الإجباري على المرض (AMO) في المغرب، يجب أن يكون الشخص موظفاً، عاملاً مستقلاً، أو مؤهلاً عبر هيئة محددة (CNSS للموظفين في القطاع الخاص، CNOPS للموظفين العموميين). يجب أن يكون المؤمن مسجلاً ويدفع الاشتراكات بانتظام. بعد التسجيل، يمكنه الاستفادة من الخدمات الصحية المغطاة من قبل AMO.",
+    "category": "assurance_maladie",
+    "source": "cnss.ma",
+    "keywords": ["AMO", "assurance maladie", "prestations santé", "maroc"]
+  },
+  {
+    "id": 33,
+    "question_fr": "Comment s’inscrire à l’assurance maladie ?",
+    "question_ar": "كيف يتم التسجيل في التأمين الصحي؟",
+    "answer_fr": "Pour s’inscrire à l’assurance maladie au Maroc, le salarié doit soumettre une demande via son employeur auprès de la CNSS ou s’inscrire directement auprès de l’organisme compétent pour les indépendants et les fonctionnaires. Les documents requis incluent la Carte Nationale d’Identité, un contrat de travail ou une preuve d’activité professionnelle, et parfois un justificatif de domicile.",
+    "answer_ar": "للتسجيل في التأمين الصحي بالمغرب، يجب على الموظف تقديم طلب عبر صاحب العمل لدى الصندوق الوطني للضمان الاجتماعي (CNSS)، أو التسجيل مباشرة لدى الهيئة المختصة للمستقلين والموظفين العموميين. تشمل الوثائق المطلوبة البطاقة الوطنية، عقد العمل أو إثبات النشاط المهني، وأحياناً إثبات السكن.",
+    "category": "assurance_maladie",
+    "source": "cnss.ma",
+    "keywords": ["inscription", "assurance maladie", "AMO", "maroc"]
+  },
+  {
+    "id": 34,
+    "question_fr": "Comment demander un remboursement médical ?",
+    "question_ar": "كيف يمكن طلب استرداد النفقات الطبية؟",
+    "answer_fr": "Pour demander un remboursement médical via l’AMO, l’assuré doit fournir les factures et prescriptions médicales au centre CNSS ou CNOPS compétent, selon son statut. Le dossier est vérifié et le remboursement est effectué selon le barème officiel de l’assurance maladie obligatoire.",
+    "answer_ar": "لطلب استرداد النفقات الطبية عبر AMO، يجب على المؤمن تقديم الفواتير والوصفات الطبية إلى المركز المختص للصندوق الوطني للضمان الاجتماعي (CNSS) أو CNOPS حسب حالته. يتم مراجعة الملف ويتم صرف التعويض وفقاً للجدول الرسمي للتأمين الإجباري على المرض.",
+    "category": "assurance_maladie",
+    "source": "cnss.ma",
+    "keywords": ["remboursement", "AMO", "assurance maladie", "maroc"]
+  },
+  {
+    "id": 35,
+    "question_fr": "Comment obtenir un permis de conduire ?",
+    "question_ar": "كيف يمكن الحصول على رخصة القيادة في المغرب؟",
+    "answer_fr": "Pour obtenir un permis de conduire au Maroc, il faut s’inscrire dans une auto-école agréée, suivre les cours théoriques et pratiques, réussir l’examen théorique (code de la route) et l’examen pratique. Après réussite, le permis est délivré par la préfecture ou la direction régionale compétente.",
+    "answer_ar": "للحصول على رخصة القيادة في المغرب، يجب التسجيل في مدرسة لتعليم السياقة معتمدة، حضور الدروس النظرية والعملية، اجتياز الامتحان النظري (قانون السير) والامتحان العملي. بعد النجاح، يتم إصدار رخصة القيادة من قبل الولاية أو المديرية الإقليمية المختصة.",
+    "category": "permis_vehicule",
+    "source": "service-public.ma",
+    "keywords": ["permis de conduire", "auto-école", "maroc"]
+  },
+  {
+    "id": 36,
+    "question_fr": "Documents pour permis de conduire",
+    "question_ar": "ما هي الوثائق المطلوبة للحصول على رخصة القيادة؟",
+    "answer_fr": "Les documents nécessaires pour obtenir un permis de conduire au Maroc incluent généralement : la Carte Nationale d’Identité, des photos d’identité récentes, un certificat médical attestant l’aptitude à conduire, le certificat d’inscription à l’auto-école et le paiement des frais administratifs.",
+    "answer_ar": "الوثائق المطلوبة للحصول على رخصة القيادة في المغرب تشمل عادة: البطاقة الوطنية للتعريف، صور شخصية حديثة، شهادة طبية تثبت القدرة على القيادة، شهادة التسجيل في مدرسة السياقة، ودفع الرسوم الإدارية.",
+    "category": "permis_vehicule",
+    "source": "service-public.ma",
+    "keywords": ["permis de conduire", "documents", "maroc"]
+  },
+  {
+    "id": 37,
+    "question_fr": "Comment renouveler le permis ?",
+    "question_ar": "كيف يمكن تجديد رخصة القيادة؟",
+    "answer_fr": "Pour renouveler un permis de conduire expiré ou abîmé, il faut se rendre à la préfecture ou direction régionale compétente, fournir l’ancienne licence, un certificat médical récent, la Carte Nationale d’Identité et payer les frais de renouvellement. Dans certains cas, un examen médical ou de vue peut être requis.",
+    "answer_ar": "لتجديد رخصة القيادة منتهية الصلاحية أو التالفة، يجب التوجه إلى الولاية أو المديرية الإقليمية المختصة، تقديم الرخصة القديمة، شهادة طبية حديثة، البطاقة الوطنية ودفع رسوم التجديد. في بعض الحالات قد يُطلب اجتياز فحص طبي أو نظر.",
+    "category": "permis_vehicule",
+    "source": "service-public.ma",
+    "keywords": ["renouvellement", "permis de conduire", "maroc"]
+  },
+  {
+    "id": 38,
+    "question_fr": "Comment obtenir une carte grise ?",
+    "question_ar": "كيف يمكن الحصول على البطاقة الرمادية (بطاقة السيارة)؟",
+    "answer_fr": "Pour obtenir une carte grise (certificat d’immatriculation), il faut se rendre au service de la circulation et fournir : le formulaire de demande rempli, la Carte d’Identité, le contrat de vente du véhicule, la preuve de paiement des taxes et l’assurance du véhicule. Le document officiel vous sera délivré après vérification du dossier.",
+    "answer_ar": "للحصول على البطاقة الرمادية للسيارة، يجب التوجه إلى قسم المرور وتقديم: استمارة الطلب معبأة، البطاقة الوطنية، عقد بيع السيارة، إثبات دفع الضرائب، وتأمين السيارة. يتم إصدار البطاقة الرسمية بعد التحقق من الملف.",
+    "category": "permis_vehicule",
+    "source": "service-public.ma",
+    "keywords": ["carte grise", "immatriculation", "maroc"]
+  },
+  {
+    "id": 39,
+    "question_fr": "Comment payer une amende routière ?",
+    "question_ar": "كيف يمكن دفع غرامة مرورية؟",
+    "answer_fr": "Pour payer une amende routière au Maroc, il est possible de se rendre directement au centre de paiement de la préfecture, à la poste ou via le portail en ligne de paiement des amendes. Il faut fournir le numéro de l’avis de contravention et payer le montant indiqué. Un reçu officiel est délivré après le paiement.",
+    "answer_ar": "لدفع غرامة مرورية في المغرب، يمكن التوجه مباشرة إلى مركز الدفع بالولاية، أو عبر البريد، أو من خلال البوابة الإلكترونية لدفع المخالفات. يجب تقديم رقم إشعار المخالفة ودفع المبلغ المحدد. يتم إصدار إيصال رسمي بعد الدفع.",
+    "category": "permis_vehicule",
+    "source": "service-public.ma",
+    "keywords": ["amende", "routière", "paiement", "maroc"]
+  },
+  {
+    "id": 40,
+    "question_fr": "Comment créer une SARL au Maroc ?",
+    "question_ar": "كيف يمكن إنشاء شركة ذات مسؤولية محدودة (SARL) في المغرب؟",
+    "answer_fr": "Pour créer une SARL au Maroc, il faut :\n1. Déterminer le capital social et les associés.\n2. Rédiger les statuts de la société.\n3. Déposer le capital social sur un compte bancaire au nom de la société.\n4. Obtenir le certificat négatif de dénomination sociale.\n5. Enregistrer les statuts chez un notaire.\n6. S’inscrire au registre du commerce et obtenir le numéro ICE.\n7. Publier un avis de constitution dans un journal officiel.\nUne fois toutes ces étapes réalisées, la SARL est officiellement créée.",
+    "answer_ar": "لإنشاء شركة ذات مسؤولية محدودة (SARL) في المغرب، يجب: \n1. تحديد رأس المال وعدد الشركاء.\n2. صياغة النظام الأساسي للشركة.\n3. إيداع رأس المال في حساب بنكي باسم الشركة.\n4. الحصول على شهادة عدم وجود اسم مشابه للشركة (شهادة سلبية).\n5. تسجيل النظام الأساسي لدى كاتب العدل.\n6. التسجيل في السجل التجاري والحصول على رقم ICE.\n7. نشر إعلان التأسيس في جريدة رسمية.\nبعد إتمام هذه الخطوات، تصبح الشركة ذات مسؤولية محدودة رسمياً.",
+    "category": "creation_entreprise",
+    "source": "service-public.ma",
+    "keywords": ["SARL", "entreprise", "création société", "maroc"]
+  },
+  {
+    "id": 41,
+    "question_fr": "Combien coûte la création d’entreprise ?",
+    "question_ar": "كم تكلف إنشاء شركة في المغرب؟",
+    "answer_fr": "Le coût de création d’une entreprise au Maroc dépend du type de société et des frais administratifs. Pour une SARL, il faut compter : frais du certificat négatif (~100 dirhams), frais de notaire pour les statuts (~2000–3000 dirhams), frais d’inscription au registre du commerce (~500 dirhams), et publication dans un journal officiel (~300–500 dirhams). Des frais bancaires pour le dépôt du capital peuvent aussi s’ajouter.",
+    "answer_ar": "تختلف تكلفة إنشاء شركة في المغرب حسب نوع الشركة والرسوم الإدارية. بالنسبة لشركة ذات مسؤولية محدودة (SARL)، يجب احتساب: رسوم الشهادة السلبية (~100 درهم)، رسوم كاتب العدل للنظام الأساسي (~2000–3000 درهم)، رسوم التسجيل في السجل التجاري (~500 درهم)، والنشر في الجريدة الرسمية (~300–500 درهم). يمكن أيضاً إضافة الرسوم البنكية لإيداع رأس المال.",
+    "category": "creation_entreprise",
+    "source": "service-public.ma",
+    "keywords": ["coût création", "frais entreprise", "SARL", "maroc"]
+  },
+  {
+    "id": 42,
+    "question_fr": "Comment s’inscrire au registre du commerce ?",
+    "question_ar": "كيف يمكن التسجيل في السجل التجاري؟",
+    "answer_fr": "Pour s’inscrire au registre du commerce au Maroc, il faut déposer une demande auprès du tribunal compétent ou via le guichet unique en ligne. Les documents requis incluent : les statuts de la société, le certificat négatif, le numéro de l’ICE, la preuve de domiciliation de l’entreprise et la pièce d’identité du représentant légal. Après vérification, un numéro de registre du commerce est attribué et l’entreprise est officiellement enregistrée.",
+    "answer_ar": "للتسجيل في السجل التجاري في المغرب، يجب تقديم طلب لدى المحكمة المختصة أو عبر نافذة واحدة إلكترونية. تشمل الوثائق المطلوبة: النظام الأساسي للشركة، الشهادة السلبية، رقم ICE، إثبات مقر الشركة، والبطاقة الوطنية للممثل القانوني. بعد التحقق، يتم منح رقم السجل التجاري وتصبح الشركة مسجلة رسمياً.",
+    "category": "creation_entreprise",
+    "source": "service-public.ma",
+    "keywords": [
+      "registre du commerce",
+      "immatriculation",
+      "entreprise",
+      "maroc"
+    ]
+  },
+  {
+    "id": 43,
+    "question_fr": "Comment déclarer ses impôts ?",
+    "question_ar": "كيف يمكن التصريح بالضرائب في المغرب؟",
+    "answer_fr": "Pour déclarer ses impôts au Maroc, le contribuable doit remplir la déclaration fiscale annuelle via le portail de la Direction Générale des Impôts (DGI) ou se rendre dans le centre des impôts compétent. Les documents nécessaires incluent les justificatifs de revenus, les relevés bancaires et les attestations éventuelles de retenue à la source. La déclaration doit être faite avant la date limite fixée chaque année.",
+    "answer_ar": "لتصريح بالضرائب في المغرب، يجب على المكلف بالضريبة تعبئة الإقرار الضريبي السنوي عبر بوابة المديرية العامة للضرائب أو التوجه إلى مركز الضرائب المختص. تشمل الوثائق المطلوبة إثباتات الدخل، كشوف الحساب البنكي، وأي شهادات اقتطاع ضريبي إذا وجدت. يجب تقديم الإقرار قبل الموعد النهائي المحدد سنوياً.",
+    "category": "impots_taxes",
+    "source": "tax.gov.ma",
+    "keywords": ["impôts", "déclaration fiscale", "maroc"]
+  },
+  {
+    "id": 44,
+    "question_fr": "Comment payer l’impôt sur le revenu ?",
+    "question_ar": "كيف يمكن دفع ضريبة الدخل؟",
+    "answer_fr": "Le paiement de l’impôt sur le revenu au Maroc se fait généralement en ligne via le portail de la DGI ou directement auprès des banques agréées. Il faut fournir le numéro de référence de l’avis d’imposition ou le numéro fiscal et payer le montant indiqué. Les contribuables peuvent effectuer un paiement unique ou échelonné selon les options prévues par la loi.",
+    "answer_ar": "يتم دفع ضريبة الدخل في المغرب عادة عبر الإنترنت من خلال بوابة المديرية العامة للضرائب أو مباشرة لدى البنوك المعتمدة. يجب تقديم رقم المرجع لإشعار الضريبة أو الرقم الضريبي ودفع المبلغ المحدد. يمكن للمكلفين دفع الضريبة دفعة واحدة أو على أقساط حسب الخيارات القانونية المتاحة.",
+    "category": "impots_taxes",
+    "source": "tax.gov.ma",
+    "keywords": ["impôt sur le revenu", "paiement", "maroc"]
+  },
+  {
+    "id": 45,
+    "question_fr": "Comment payer la TVA ?",
+    "question_ar": "كيف يمكن دفع الضريبة على القيمة المضافة (TVA)؟",
+    "answer_fr": "Le paiement de la TVA au Maroc est effectué par les entreprises assujetties via le portail de la DGI ou directement auprès des centres des impôts. L’entreprise doit calculer la TVA due sur les ventes, soustraire la TVA déductible sur les achats, et verser la différence à la DGI avant la date limite mensuelle ou trimestrielle.",
+    "answer_ar": "يتم دفع الضريبة على القيمة المضافة (TVA) في المغرب من قبل الشركات الخاضعة للضريبة عبر بوابة المديرية العامة للضرائب أو مباشرة لدى مراكز الضرائب. يجب على الشركة حساب الضريبة المستحقة على المبيعات، خصم الضريبة القابلة للاسترداد على المشتريات، ودفع الفرق للمديرية العامة للضرائب قبل الموعد النهائي الشهري أو الربعي.",
+    "category": "impots_taxes",
+    "source": "tax.gov.ma",
+    "keywords": ["TVA", "impôts", "paiement", "maroc"]
+  },
+
+  {
+    "id": 46,
+    "question_fr": "Comment enregistrer un contrat de location ?",
+    "question_ar": "كيف يمكن تسجيل عقد الإيجار؟",
+    "answer_fr": "Pour enregistrer un contrat de location au Maroc, le bailleur et le locataire doivent se rendre au bureau des impôts compétent et présenter le contrat signé, la Carte Nationale d’Identité des deux parties, ainsi que le reçu de paiement des droits d’enregistrement. L’enregistrement est obligatoire pour que le contrat soit légalement reconnu et pour permettre d’éventuelles démarches fiscales.",
+    "answer_ar": "لتسجيل عقد الإيجار في المغرب، يجب على المؤجر والمستأجر التوجه إلى مكتب الضرائب المختص وتقديم العقد الموقع، البطاقة الوطنية للطرفين، وإيصال دفع رسوم التسجيل. التسجيل إلزامي ليكون العقد معترفاً به قانونياً وللسماح بالإجراءات الضريبية الممكنة.",
+    "category": "immobilier",
+    "source": "service-public.ma",
+    "keywords": ["contrat de location", "enregistrement", "bail", "maroc"]
+  },
+  {
+    "id": 47,
+    "question_fr": "Comment acheter un bien immobilier ?",
+    "question_ar": "كيف يمكن شراء عقار في المغرب؟",
+    "answer_fr": "Pour acheter un bien immobilier au Maroc, il faut : vérifier la propriété et l’état juridique du bien auprès du conservateur foncier, signer un compromis de vente, obtenir un numéro ICE si l’acheteur est une entreprise, payer le prix convenu et les taxes applicables, puis finaliser l’acte de vente chez un notaire. L’acte authentique est enregistré auprès de l’administration fiscale pour officialiser la transaction.",
+    "answer_ar": "لشراء عقار في المغرب، يجب: التحقق من الملكية والوضع القانوني للعقار لدى المحافظة العقارية، توقيع عقد مبدئي للبيع، الحصول على رقم ICE إذا كان المشتري شركة، دفع السعر المتفق عليه والضرائب المطبقة، ثم إتمام العقد النهائي لدى كاتب عدل. يتم تسجيل العقد الأصلي لدى الإدارة الضريبية لإضفاء الطابع الرسمي على المعاملة.",
+    "category": "immobilier",
+    "source": "service-public.ma",
+    "keywords": ["achat immobilier", "propriété", "acte notarié", "maroc"]
+  },
+  {
+    "id": 48,
+    "question_fr": "Comment obtenir un certificat de propriété ?",
+    "question_ar": "كيف يمكن الحصول على شهادة الملكية؟",
+    "answer_fr": "Pour obtenir un certificat de propriété au Maroc, il faut s’adresser au conservateur foncier ou au notaire ayant réalisé l’acte de propriété. Il est nécessaire de fournir l’acte de propriété, la Carte Nationale d’Identité du demandeur et parfois le numéro de registre foncier. Le certificat atteste que le bien est enregistré au nom du propriétaire et est légalement reconnu.",
+    "answer_ar": "للحصول على شهادة الملكية في المغرب، يجب التوجه إلى المحافظة العقارية أو إلى كاتب العدل الذي أنجز العقد. يجب تقديم عقد الملكية، البطاقة الوطنية للطالب، وأحياناً رقم السجل العقاري. تُثبت الشهادة أن العقار مسجل باسم المالك ومعترف به قانونياً.",
+    "category": "immobilier",
+    "source": "service-public.ma",
+    "keywords": ["certificat de propriété", "immobilier", "maroc", "propriété"]
+  },
+  {
+    "id": 49,
+    "question_fr": "Comment légaliser une signature ?",
+    "question_ar": "كيف يمكن توثيق توقيع؟",
+    "answer_fr": "Pour légaliser une signature au Maroc, il faut se rendre chez un notaire ou au tribunal compétent. La personne doit présenter une pièce d'identité valide et signer le document en présence de l’officier compétent. La légalisation atteste que la signature apposée sur le document est authentique.",
+    "answer_ar": "لتوثيق توقيع في المغرب، يجب التوجه إلى كاتب عدل أو المحكمة المختصة. يجب على الشخص تقديم بطاقة تعريف صالحة وتوقيع الوثيقة أمام المسؤول المختص. يثبت التوثيق أن التوقيع الموجود على الوثيقة أصلي ومعترف به قانونياً.",
+    "category": "formalites_administratives",
+    "source": "service-public.ma",
+    "keywords": ["légalisation", "signature", "notaire", "maroc"]
+  },
+  {
+    "id": 50,
+    "question_fr": "Comment obtenir un casier judiciaire ?",
+    "question_ar": "كيف يمكن الحصول على صحيفة السوابق العدلية؟",
+    "answer_fr": "Pour obtenir un casier judiciaire au Maroc, il faut se rendre au tribunal de première instance ou au bureau des casiers judiciaires, muni de la Carte Nationale d’Identité. La demande peut parfois être faite en ligne via le portail du Ministère de la Justice. Le document officiel atteste des condamnations ou de l’absence de condamnations.",
+    "answer_ar": "للحصول على صحيفة السوابق العدلية في المغرب، يجب التوجه إلى المحكمة الابتدائية أو مكتب السجل العدلي، مع إحضار البطاقة الوطنية. يمكن أحياناً تقديم الطلب عبر الإنترنت عبر بوابة وزارة العدل. الوثيقة الرسمية تثبت الإدانات أو عدم وجودها.",
+    "category": "formalites_administratives",
+    "source": "service-public.ma",
+    "keywords": ["casier judiciaire", "document officiel", "maroc"]
+  }
+]

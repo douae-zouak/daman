@@ -1,0 +1,1574 @@
+<!doctype html>
+<html lang="fr" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>Daman AI — Ne laissez plus vos documents expirer</title>
+    <meta
+      name="description"
+      content="Scannez vos documents, recevez des alertes automatiques avant expiration. Tranquillité d'esprit, gain de temps, économies financières."
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&family=DM+Serif+Display:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --font: "DM Sans", system-ui, sans-serif;
+        --serif: "DM Serif Display", Georgia, serif;
+        --ease: cubic-bezier(0.4, 0, 0.2, 1);
+        --tr: 200ms var(--ease);
+        --r: 8px;
+        --r-md: 12px;
+        --r-lg: 18px;
+        --r-xl: 26px;
+      }
+      [data-theme="dark"] {
+        --bg: #0c1020;
+        --bg2: #101626;
+        --bg3: #141d2e;
+        --bg4: #19243a;
+        --bgc: rgba(255, 255, 255, 0.04);
+        --bgh: rgba(255, 255, 255, 0.07);
+        --bd: rgba(201, 168, 76, 0.14);
+        --bds: rgba(201, 168, 76, 0.26);
+        --t1: #e6ecf8;
+        --t2: #7a8aad;
+        --t3: #3a4a6a;
+        --ac: #c9a84c;
+        --ac2: #3d6be8;
+        --glow: rgba(201, 168, 76, 0.14);
+        --nav: rgba(12, 16, 32, 0.9);
+        --sh: 0 20px 60px rgba(0, 0, 0, 0.55);
+      }
+      [data-theme="light"] {
+        --bg: #f3f1ea;
+        --bg2: #eae7dc;
+        --bg3: #e0ddd0;
+        --bg4: #d8d4c6;
+        --bgc: rgba(255, 255, 255, 0.72);
+        --bgh: rgba(255, 255, 255, 0.96);
+        --bd: rgba(139, 106, 20, 0.16);
+        --bds: rgba(139, 106, 20, 0.3);
+        --t1: #1c2035;
+        --t2: #4a5272;
+        --t3: #8a92b0;
+        --ac: #8b6a14;
+        --ac2: #1a4acf;
+        --glow: rgba(139, 106, 20, 0.1);
+        --nav: rgba(243, 241, 234, 0.92);
+        --sh: 0 12px 40px rgba(28, 32, 53, 0.12);
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        font-family: var(--font);
+        background: var(--bg);
+        color: var(--t1);
+        overflow-x: hidden;
+        -webkit-font-smoothing: antialiased;
+        transition:
+          background var(--tr),
+          color var(--tr);
+      }
+
+      /* ━━━ ZELLIGE PATTERN ━━━ */
+      .z-bg {
+        position: relative;
+      }
+      .z-bg::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        z-index: 0;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cg fill='none' stroke='%23C9A84C' stroke-width='0.6' opacity='0.15'%3E%3Crect x='22' y='22' width='36' height='36'/%3E%3Crect x='0' y='0' width='22' height='22'/%3E%3Crect x='58' y='0' width='22' height='22'/%3E%3Crect x='0' y='58' width='22' height='22'/%3E%3Crect x='58' y='58' width='22' height='22'/%3E%3Cline x1='22' y1='11' x2='11' y2='0'/%3E%3Cline x1='58' y1='11' x2='69' y2='0'/%3E%3Cline x1='22' y1='69' x2='11' y2='80'/%3E%3Cline x1='58' y1='69' x2='69' y2='80'/%3E%3Cline x1='40' y1='0' x2='40' y2='22'/%3E%3Cline x1='40' y1='58' x2='40' y2='80'/%3E%3Cline x1='0' y1='40' x2='22' y2='40'/%3E%3Cline x1='58' y1='40' x2='80' y2='40'/%3E%3C/g%3E%3C/svg%3E");
+        background-size: 80px 80px;
+      }
+      [data-theme="light"] .z-bg::after {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cg fill='none' stroke='%238B6A14' stroke-width='0.6' opacity='0.10'%3E%3Crect x='22' y='22' width='36' height='36'/%3E%3Crect x='0' y='0' width='22' height='22'/%3E%3Crect x='58' y='0' width='22' height='22'/%3E%3Crect x='0' y='58' width='22' height='22'/%3E%3Crect x='58' y='58' width='22' height='22'/%3E%3Cline x1='22' y1='11' x2='11' y2='0'/%3E%3Cline x1='58' y1='11' x2='69' y2='0'/%3E%3Cline x1='22' y1='69' x2='11' y2='80'/%3E%3Cline x1='58' y1='69' x2='69' y2='80'/%3E%3Cline x1='40' y1='0' x2='40' y2='22'/%3E%3Cline x1='40' y1='58' x2='40' y2='80'/%3E%3Cline x1='0' y1='40' x2='22' y2='40'/%3E%3Cline x1='58' y1='40' x2='80' y2='40'/%3E%3C/g%3E%3C/svg%3E");
+      }
+      .z-bg > * {
+        position: relative;
+        z-index: 1;
+      }
+
+      /* ━━━ NAV ━━━ */
+      nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        background: var(--nav);
+        backdrop-filter: blur(24px) saturate(180%);
+        -webkit-backdrop-filter: blur(24px) saturate(180%);
+        border-bottom: 1px solid var(--bd);
+        padding: 0 40px;
+        transition: background var(--tr);
+      }
+      .nav-in {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        height: 64px;
+        gap: 8px;
+      }
+      .nbrand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+        color: var(--t1);
+        margin-right: 8px;
+      }
+      .nlogo {
+        width: 32px;
+        height: 32px;
+        background: var(--ac);
+        border-radius: var(--r);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+        font-weight: 700;
+        color: #111;
+        flex-shrink: 0;
+      }
+      .nbrand-t {
+        font-size: 15px;
+        font-weight: 600;
+        letter-spacing: -0.3px;
+      }
+      .nlinks {
+        display: flex;
+        align-items: center;
+        gap: 2px;
+      }
+      .nlink {
+        color: var(--t2);
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 500;
+        padding: 7px 13px;
+        border-radius: var(--r);
+        transition: all var(--tr);
+      }
+      .nlink:hover {
+        color: var(--t1);
+        background: var(--bgh);
+      }
+      .nright {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .ttheme {
+        width: 34px;
+        height: 34px;
+        border: 1px solid var(--bd);
+        background: var(--bgc);
+        border-radius: var(--r);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 14px;
+        color: var(--t2);
+        transition: all var(--tr);
+      }
+      .ttheme:hover {
+        background: var(--bgh);
+        color: var(--t1);
+        border-color: var(--bds);
+      }
+      .ncta {
+        background: var(--ac);
+        color: #111;
+        text-decoration: none;
+        padding: 9px 20px;
+        border-radius: var(--r);
+        font-size: 14px;
+        font-weight: 700;
+        transition: all var(--tr);
+      }
+      .ncta:hover {
+        filter: brightness(1.1);
+        transform: translateY(-1px);
+      }
+
+      /* ━━━ HERO ━━━ */
+      .hero {
+        padding: 152px 40px 88px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+      .hero-glow {
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 900px;
+        height: 500px;
+        background: radial-gradient(ellipse, var(--glow) 0%, transparent 65%);
+        pointer-events: none;
+      }
+
+      /* Ornement géométrique */
+      .orn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        margin-bottom: 30px;
+        animation: fup 0.4s var(--ease) both;
+      }
+      .orn-line {
+        height: 1px;
+        width: 36px;
+      }
+      .orn-line.l {
+        background: linear-gradient(90deg, transparent, var(--ac));
+      }
+      .orn-line.r {
+        background: linear-gradient(90deg, var(--ac), transparent);
+      }
+      .orn-mid {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+      }
+      .orn-d {
+        width: 6px;
+        height: 6px;
+        background: var(--ac);
+        transform: rotate(45deg);
+        opacity: 0.7;
+      }
+      .orn-label {
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        color: var(--ac);
+      }
+
+      h1.hero-h {
+        font-family: var(--serif);
+        font-size: clamp(40px, 6vw, 72px);
+        line-height: 1.07;
+        letter-spacing: -2px;
+        max-width: 760px;
+        margin: 0 auto 22px;
+        animation: fup 0.6s var(--ease) 0.1s both;
+        color: var(--t1);
+      }
+      h1.hero-h em {
+        font-style: italic;
+        color: var(--ac);
+      }
+      .hero-sub {
+        font-size: clamp(15px, 2vw, 18px);
+        color: var(--t2);
+        max-width: 480px;
+        margin: 0 auto 40px;
+        line-height: 1.75;
+        animation: fup 0.6s var(--ease) 0.2s both;
+      }
+      .hacts {
+        display: flex;
+        gap: 12px;
+        justify-content: center;
+        animation: fup 0.6s var(--ease) 0.3s both;
+        flex-wrap: wrap;
+      }
+
+      /* ━━━ FLOATING ELEMENTS ━━━ */
+      .hero-floats {
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        z-index: 0;
+      }
+      .float-bell {
+        position: absolute;
+        top: 12%;
+        right: 8%;
+        width: 140px;
+        height: 140px;
+        animation: floatBell 4s ease-in-out infinite;
+        filter: drop-shadow(0 20px 40px rgba(201, 168, 76, 0.25));
+      }
+      .float-bell img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
+
+      /* Floating notification badges */
+      .float-badge {
+        position: absolute;
+        background: var(--bg2);
+        border: 1px solid var(--bds);
+        border-radius: var(--r-md);
+        padding: 10px 16px;
+        font-size: 12px;
+        font-weight: 600;
+        color: var(--t1);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+        backdrop-filter: blur(10px);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        white-space: nowrap;
+      }
+      .float-badge .fb-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        flex-shrink: 0;
+      }
+      .float-badge .fb-dot.red {
+        background: #ff5f57;
+        box-shadow: 0 0 8px rgba(255, 95, 87, 0.4);
+      }
+      .float-badge .fb-dot.green {
+        background: #28c840;
+        box-shadow: 0 0 8px rgba(40, 200, 64, 0.4);
+      }
+      .float-badge .fb-dot.orange {
+        background: #febc2e;
+        box-shadow: 0 0 8px rgba(254, 188, 46, 0.4);
+      }
+
+      .fb-1 {
+        top: 22%;
+        left: 5%;
+        animation: floatBadge1 5s ease-in-out infinite;
+      }
+      .fb-2 {
+        bottom: 45%;
+        right: 10%;
+        animation: floatBadge2 6s ease-in-out 1s infinite;
+      }
+      .fb-3 {
+        top: 40%;
+        left: 12%;
+        animation: floatBadge3 5.5s ease-in-out 0.5s infinite;
+      }
+
+      /* Floating particles */
+      .float-dot {
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        background: var(--ac);
+        border-radius: 50%;
+        opacity: 0.3;
+      }
+      .fd1 {
+        top: 18%;
+        left: 20%;
+        animation: floatDot 7s ease-in-out infinite;
+      }
+      .fd2 {
+        top: 60%;
+        right: 15%;
+        animation: floatDot 8s ease-in-out 2s infinite;
+      }
+      .fd3 {
+        bottom: 20%;
+        left: 30%;
+        animation: floatDot 6s ease-in-out 1s infinite;
+      }
+      .fd4 {
+        top: 30%;
+        right: 25%;
+        animation: floatDot 9s ease-in-out 3s infinite;
+        width: 4px;
+        height: 4px;
+        opacity: 0.2;
+      }
+
+      /* Pulse ring around bell */
+      .bell-pulse {
+        position: absolute;
+        top: 12%;
+        right: 8%;
+        width: 140px;
+        height: 140px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .bell-pulse::before,
+      .bell-pulse::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        border: 2px solid var(--ac);
+        opacity: 0;
+        animation: pulseRing 3s ease-out infinite;
+      }
+      .bell-pulse::after {
+        animation-delay: 1.5s;
+      }
+
+      @keyframes floatBell {
+        0%,
+        100% {
+          transform: translateY(0) rotate(-3deg);
+        }
+        50% {
+          transform: translateY(-18px) rotate(3deg);
+        }
+      }
+      @keyframes floatBadge1 {
+        0%,
+        100% {
+          transform: translateY(0) translateX(0);
+        }
+        50% {
+          transform: translateY(-12px) translateX(6px);
+        }
+      }
+      @keyframes floatBadge2 {
+        0%,
+        100% {
+          transform: translateY(0) translateX(0);
+        }
+        50% {
+          transform: translateY(-10px) translateX(-8px);
+        }
+      }
+      @keyframes floatBadge3 {
+        0%,
+        100% {
+          transform: translateY(0) translateX(0);
+        }
+        50% {
+          transform: translateY(-14px) translateX(4px);
+        }
+      }
+      @keyframes floatDot {
+        0%,
+        100% {
+          transform: translateY(0) scale(1);
+          opacity: 0.3;
+        }
+        50% {
+          transform: translateY(-20px) scale(1.5);
+          opacity: 0.6;
+        }
+      }
+      @keyframes pulseRing {
+        0% {
+          transform: scale(0.6);
+          opacity: 0.6;
+        }
+        100% {
+          transform: scale(1.8);
+          opacity: 0;
+        }
+      }
+
+      /* Boutons */
+      .btnp {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 13px 26px;
+        background: var(--ac);
+        color: #111;
+        border-radius: var(--r-md);
+        font-size: 14px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: all var(--tr);
+      }
+      .btnp:hover {
+        filter: brightness(1.1);
+        transform: translateY(-2px);
+      }
+      .btns {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 13px 26px;
+        background: var(--bgc);
+        color: var(--t1);
+        border-radius: var(--r-md);
+        font-size: 14px;
+        font-weight: 500;
+        text-decoration: none;
+        border: 1px solid var(--bds);
+        transition: all var(--tr);
+      }
+      .btns:hover {
+        background: var(--bgh);
+        transform: translateY(-1px);
+      }
+
+      /* Preview window */
+      .preview {
+        max-width: 740px;
+        margin: 56px auto 0;
+        animation: fupl 0.9s var(--ease) 0.4s both;
+      }
+      .pwindow {
+        background: var(--bg2);
+        border: 1px solid var(--bds);
+        border-radius: var(--r-xl);
+        overflow: hidden;
+        box-shadow: var(--sh);
+      }
+      .pw-topline {
+        height: 2px;
+        background: linear-gradient(
+          90deg,
+          transparent 8%,
+          var(--ac) 35%,
+          var(--ac) 65%,
+          transparent 92%
+        );
+      }
+      .ptbar {
+        background: var(--bg3);
+        border-bottom: 1px solid var(--bd);
+        padding: 12px 18px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .tdots {
+        display: flex;
+        gap: 5px;
+      }
+      .tdot {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+      }
+      .tdot:nth-child(1) {
+        background: #ff5f57;
+      }
+      .tdot:nth-child(2) {
+        background: #febc2e;
+      }
+      .tdot:nth-child(3) {
+        background: #28c840;
+      }
+      .tlbl {
+        font-size: 12px;
+        font-weight: 500;
+        color: var(--t3);
+        margin: 0 auto;
+      }
+      .pbody {
+        padding: 24px 24px 28px;
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+      }
+      .pmsg {
+        display: flex;
+        gap: 10px;
+        align-items: flex-end;
+      }
+      .pmsg.user {
+        flex-direction: row-reverse;
+      }
+      .pavtr {
+        width: 28px;
+        height: 28px;
+        border-radius: var(--r);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        flex-shrink: 0;
+        background: var(--bg3);
+        border: 1px solid var(--bd);
+        font-weight: 700;
+        color: var(--t2);
+      }
+      .pbbl {
+        max-width: 74%;
+        padding: 11px 15px;
+        border-radius: 14px;
+        font-size: 13.5px;
+        line-height: 1.6;
+      }
+      .pmsg.user .pbbl {
+        background: var(--ac);
+        color: #111;
+        border-bottom-right-radius: 3px;
+        font-weight: 500;
+      }
+      .pmsg.bot .pbbl {
+        background: var(--bgc);
+        border: 1px solid var(--bd);
+        color: var(--t1);
+        border-bottom-left-radius: 3px;
+      }
+      .ptag {
+        display: inline-block;
+        margin-top: 7px;
+        background: rgba(45, 217, 164, 0.1);
+        color: #2dd9a4;
+        font-size: 11px;
+        font-weight: 600;
+        padding: 2px 8px;
+        border-radius: 4px;
+      }
+
+      /* ━━━ SÉPARATEUR ━━━ */
+      .or-sep {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 0 40px;
+      }
+      .or-sep-line {
+        flex: 1;
+        height: 1px;
+        background: var(--bd);
+      }
+      .or-sep-gem {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+      .or-sep-d {
+        width: 5px;
+        height: 5px;
+        background: var(--ac);
+        transform: rotate(45deg);
+        opacity: 0.6;
+      }
+
+      /* ━━━ DOC STRIP ━━━ */
+      .strip {
+        padding: 44px 40px;
+        text-align: center;
+      }
+      .strip-lbl {
+        font-size: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        color: var(--t3);
+        margin-bottom: 18px;
+      }
+      .strip-row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 32px;
+        flex-wrap: wrap;
+      }
+      .strip-item {
+        font-size: 13px;
+        font-weight: 500;
+        color: var(--t3);
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        opacity: 0.6;
+        transition: opacity var(--tr);
+      }
+      .strip-item:hover {
+        opacity: 1;
+      }
+      .strip-item svg {
+        color: var(--ac);
+        opacity: 0.8;
+      }
+
+      /* ━━━ FEATURES ━━━ */
+      .feats {
+        padding: 96px 40px;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+      .sec-eye {
+        font-size: 10px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        color: var(--ac);
+        margin-bottom: 14px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .sec-eye::before {
+        content: "";
+        width: 18px;
+        height: 1px;
+        background: var(--ac);
+      }
+      .stitle {
+        font-family: var(--serif);
+        font-size: clamp(26px, 3.5vw, 42px);
+        line-height: 1.1;
+        letter-spacing: -1.5px;
+        margin-bottom: 12px;
+        color: var(--t1);
+      }
+      .sdesc {
+        font-size: 15px;
+        color: var(--t2);
+        max-width: 430px;
+        line-height: 1.75;
+      }
+
+      .fgrid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 16px;
+        margin-top: 52px;
+      }
+      .fcard {
+        background: var(--bgc);
+        border: 1px solid var(--bd);
+        border-radius: var(--r-lg);
+        padding: 30px 26px;
+        transition: all var(--tr);
+        position: relative;
+        overflow: hidden;
+      }
+      /* coin zellige sur chaque carte */
+      .fcard::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 64px;
+        height: 64px;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cg fill='none' stroke='%23C9A84C' stroke-width='0.6' opacity='0.20'%3E%3Cpath d='M64 0 L64 64 L0 64'/%3E%3Cpath d='M64 16 L64 64 L16 64'/%3E%3Cpath d='M64 32 L64 64 L32 64'/%3E%3C/g%3E%3C/svg%3E");
+        pointer-events: none;
+      }
+      [data-theme="light"] .fcard::after {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3Cg fill='none' stroke='%238B6A14' stroke-width='0.6' opacity='0.16'%3E%3Cpath d='M64 0 L64 64 L0 64'/%3E%3Cpath d='M64 16 L64 64 L16 64'/%3E%3Cpath d='M64 32 L64 64 L32 64'/%3E%3C/g%3E%3C/svg%3E");
+      }
+      .fcard::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, var(--ac), transparent);
+        opacity: 0;
+        transition: opacity var(--tr);
+      }
+      .fcard:hover {
+        background: var(--bgh);
+        border-color: var(--bds);
+        transform: translateY(-4px);
+        box-shadow: var(--sh);
+      }
+      .fcard:hover::before {
+        opacity: 1;
+      }
+      .ficon {
+        width: 44px;
+        height: 44px;
+        border-radius: var(--r);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+        background: var(--bg3);
+        border: 1px solid var(--bd);
+        color: var(--ac);
+        position: relative;
+        z-index: 1;
+      }
+      .fcard h3 {
+        font-size: 17px;
+        font-weight: 600;
+        letter-spacing: -0.4px;
+        margin-bottom: 9px;
+        color: var(--t1);
+        position: relative;
+        z-index: 1;
+      }
+      .fcard p {
+        font-size: 13.5px;
+        color: var(--t2);
+        line-height: 1.72;
+        position: relative;
+        z-index: 1;
+      }
+      .fpills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        margin-top: 16px;
+        position: relative;
+        z-index: 1;
+      }
+      .fpill {
+        font-size: 11px;
+        font-weight: 600;
+        padding: 3px 9px;
+        border-radius: 100px;
+        background: var(--bg3);
+        border: 1px solid var(--bd);
+        color: var(--t3);
+      }
+
+      /* ━━━ STEPS ━━━ */
+      .proc {
+        padding: 96px 40px;
+        position: relative;
+        overflow: hidden;
+        border-top: 1px solid var(--bd);
+        border-bottom: 1px solid var(--bd);
+      }
+      .proc::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: var(--bg2);
+        z-index: 0;
+      }
+      .proc > * {
+        position: relative;
+        z-index: 1;
+      }
+      .proc-in {
+        max-width: 1000px;
+        margin: 0 auto;
+      }
+      .proc-hd {
+        text-align: center;
+        margin-bottom: 60px;
+      }
+      .srow {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 0;
+        position: relative;
+      }
+      .srow::before {
+        content: "";
+        position: absolute;
+        top: 26px;
+        left: 12.5%;
+        right: 12.5%;
+        height: 1px;
+        background: repeating-linear-gradient(
+          90deg,
+          var(--ac) 0,
+          var(--ac) 5px,
+          transparent 5px,
+          transparent 12px
+        );
+        opacity: 0.25;
+        z-index: 0;
+      }
+      .sitem {
+        text-align: center;
+        padding: 18px 14px;
+        position: relative;
+        z-index: 1;
+      }
+      .snum {
+        width: 52px;
+        height: 52px;
+        border-radius: var(--r-md);
+        background: var(--bg3);
+        border: 1px solid var(--bds);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 16px;
+        font-size: 16px;
+        font-weight: 700;
+        color: var(--ac);
+        transition: all var(--tr);
+      }
+      .sitem:hover .snum {
+        background: var(--ac);
+        color: #111;
+        border-color: var(--ac);
+      }
+      .sitem h4 {
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: -0.2px;
+        margin-bottom: 7px;
+        color: var(--t1);
+      }
+      .sitem p {
+        font-size: 13px;
+        color: var(--t2);
+        line-height: 1.6;
+      }
+
+      /* ━━━ CTA ━━━ */
+      .cta-sec {
+        padding: 96px 40px;
+      }
+      .cta-box {
+        max-width: 760px;
+        margin: 0 auto;
+        background: var(--bg2);
+        border: 1px solid var(--bds);
+        border-radius: var(--r-xl);
+        padding: 64px 52px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+      .cta-box::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cg fill='none' stroke='%23C9A84C' stroke-width='0.6' opacity='0.07'%3E%3Crect x='22' y='22' width='36' height='36'/%3E%3Crect x='0' y='0' width='22' height='22'/%3E%3Crect x='58' y='0' width='22' height='22'/%3E%3Crect x='0' y='58' width='22' height='22'/%3E%3Crect x='58' y='58' width='22' height='22'/%3E%3Cline x1='40' y1='0' x2='40' y2='22'/%3E%3Cline x1='40' y1='58' x2='40' y2='80'/%3E%3Cline x1='0' y1='40' x2='22' y2='40'/%3E%3Cline x1='58' y1='40' x2='80' y2='40'/%3E%3C/g%3E%3C/svg%3E");
+        background-size: 80px 80px;
+        pointer-events: none;
+        z-index: 0;
+      }
+      [data-theme="light"] .cta-box::after {
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Cg fill='none' stroke='%238B6A14' stroke-width='0.6' opacity='0.09'%3E%3Crect x='22' y='22' width='36' height='36'/%3E%3Crect x='0' y='0' width='22' height='22'/%3E%3Crect x='58' y='0' width='22' height='22'/%3E%3Crect x='0' y='58' width='22' height='22'/%3E%3Crect x='58' y='58' width='22' height='22'/%3E%3Cline x1='40' y1='0' x2='40' y2='22'/%3E%3Cline x1='40' y1='58' x2='40' y2='80'/%3E%3Cline x1='0' y1='40' x2='22' y2='40'/%3E%3Cline x1='58' y1='40' x2='80' y2='40'/%3E%3C/g%3E%3C/svg%3E");
+        background-size: 80px 80px;
+      }
+      .cta-box > * {
+        position: relative;
+        z-index: 1;
+      }
+      .cta-glow {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 400px;
+        height: 280px;
+        background: radial-gradient(ellipse, var(--glow), transparent 65%);
+        pointer-events: none;
+      }
+      .cta-box h2 {
+        font-family: var(--serif);
+        font-size: clamp(26px, 3.5vw, 38px);
+        line-height: 1.1;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+        color: var(--t1);
+      }
+      .cta-box p {
+        font-size: 15px;
+        color: var(--t2);
+        line-height: 1.7;
+        margin-bottom: 32px;
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      /* ━━━ FOOTER ━━━ */
+      footer {
+        padding: 32px 40px;
+        border-top: 1px solid var(--bd);
+      }
+      .foot-in {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 14px;
+      }
+      .fbrand {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+        color: var(--t2);
+        font-size: 13px;
+        font-weight: 600;
+      }
+      .flinks {
+        display: flex;
+        gap: 24px;
+      }
+      .flinks a {
+        font-size: 12px;
+        color: var(--t3);
+        text-decoration: none;
+        transition: color var(--tr);
+      }
+      .flinks a:hover {
+        color: var(--ac);
+      }
+      .fcopy {
+        font-size: 11px;
+        color: var(--t3);
+      }
+
+      /* ━━━ Light mode fixes ━━━ */
+      [data-theme="light"] .btnp,
+      [data-theme="light"] .ncta {
+        color: #111 !important;
+      }
+      [data-theme="light"] .btnp svg {
+        fill: #111;
+      }
+      [data-theme="light"] .pmsg.user .pbbl {
+        color: #111;
+      }
+      [data-theme="light"] .nlogo {
+        color: #111;
+      }
+
+      /* ━━━ ANIMATIONS ━━━ */
+      @keyframes fup {
+        from {
+          opacity: 0;
+          transform: translateY(18px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      @keyframes fupl {
+        from {
+          opacity: 0;
+          transform: translateY(32px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .reveal {
+        opacity: 0;
+        transform: translateY(20px);
+        transition:
+          opacity 0.6s var(--ease),
+          transform 0.6s var(--ease);
+      }
+      .reveal.visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      /* ━━━ RESPONSIVE ━━━ */
+      @media (max-width: 900px) {
+        .fgrid {
+          grid-template-columns: 1fr;
+        }
+        .srow {
+          grid-template-columns: 1fr 1fr;
+        }
+        .srow::before {
+          display: none;
+        }
+      }
+      @media (max-width: 640px) {
+        nav {
+          padding: 0 20px;
+        }
+        .nlinks {
+          display: none;
+        }
+        .hero {
+          padding: 120px 20px 64px;
+        }
+        .hacts {
+          flex-direction: column;
+          align-items: center;
+        }
+        .feats,
+        .cta-sec {
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+        .cta-box {
+          padding: 44px 24px;
+        }
+        .proc {
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+        .hero-floats {
+          display: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- ━━━ NAV ━━━ -->
+    <nav>
+      <div class="nav-in">
+        <a href="/" class="nbrand">
+          <div class="nlogo">D</div>
+          <span class="nbrand-t">Daman AI</span>
+        </a>
+        <div class="nlinks">
+          <a href="#features" class="nlink">Fonctionnalités</a>
+          <a href="#steps" class="nlink">Comment ça marche</a>
+        </div>
+        <div class="nright">
+          <button
+            class="ttheme"
+            onclick="toggleTheme()"
+            aria-label="Changer le thème"
+          >
+            <span id="themeIcon">☀</span>
+          </button>
+          <a href="/auth/login" class="ncta">Commencer →</a>
+        </div>
+      </div>
+    </nav>
+
+    <!-- ━━━ HERO ━━━ -->
+    <section class="hero z-bg">
+      <div class="hero-glow"></div>
+
+      <!-- Floating elements -->
+      <div class="hero-floats">
+        <div class="bell-pulse"></div>
+        <div class="float-bell">
+          <img src="/static/alerte.png" alt="Alerte 3D" />
+        </div>
+        <div class="float-badge fb-1">
+          <span class="fb-dot red"></span>Passeport expire dans 7j
+        </div>
+        <div class="float-badge fb-2">
+          <span class="fb-dot green"></span>CIN — Valide ✓
+        </div>
+        <div class="float-badge fb-3">
+          <span class="fb-dot orange"></span>Permis — J-28
+        </div>
+        <div class="float-dot fd1"></div>
+        <div class="float-dot fd2"></div>
+        <div class="float-dot fd3"></div>
+        <div class="float-dot fd4"></div>
+      </div>
+
+      <div class="orn">
+        <div class="orn-line l"></div>
+        <div class="orn-mid">
+          <div class="orn-d"></div>
+          <span class="orn-label">🇲🇦 Protection documentaire intelligente</span>
+          <div class="orn-d"></div>
+        </div>
+        <div class="orn-line r"></div>
+      </div>
+      <h1 class="hero-h">
+        Vos documents, protégés<br /><em>avant qu'il ne soit trop tard.</em>
+      </h1>
+      <p class="hero-sub">
+        Scannez une fois, dormez tranquille. Daman AI surveille chaque date
+        d'expiration et vous alerte par email à J-30, J-15 et J-7.
+      </p>
+      <div class="hacts">
+        <a href="/auth/login" class="btnp">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+            <path
+              d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 0 1-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z"
+            />
+            <path
+              d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"
+            />
+            <path
+              d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"
+            />
+            <path
+              d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"
+            />
+          </svg>
+          Protéger mes documents
+        </a>
+        <a href="#features" class="btns">Comment ça marche →</a>
+      </div>
+
+      <div class="preview">
+        <div class="pwindow">
+          <div class="pw-topline"></div>
+          <div class="ptbar">
+            <div class="tdots">
+              <div class="tdot"></div>
+              <div class="tdot"></div>
+              <div class="tdot"></div>
+            </div>
+            <span class="tlbl">Daman AI — Alertes Documentaires</span>
+          </div>
+          <div class="pbody">
+            <div class="pmsg bot">
+              <div
+                class="pavtr"
+                style="background: rgba(255, 95, 87, 0.15); color: #ff5f57"
+              >
+                ⚠
+              </div>
+              <div class="pbbl">
+                🔴 <strong>Alerte urgente !</strong> Votre
+                <strong>Passeport</strong> expire dans
+                <strong>7 jours</strong> (20/03/2026). Pensez à lancer le
+                renouvellement dès maintenant.
+                <div class="ptag">📧 Envoyé par email automatiquement</div>
+              </div>
+            </div>
+            <div class="pmsg bot">
+              <div
+                class="pavtr"
+                style="background: rgba(254, 188, 46, 0.15); color: #febc2e"
+              >
+                🔔
+              </div>
+              <div class="pbbl">
+                🟠 Votre <strong>Carte Grise</strong> expire dans
+                <strong>28 jours</strong>. Pas de panique, vous avez le temps de
+                préparer vos documents.
+                <div class="ptag">✓ Suivi automatique activé</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="or-sep">
+      <div class="or-sep-line"></div>
+      <div class="or-sep-gem">
+        <div class="or-sep-d"></div>
+        <div class="or-sep-d"></div>
+      </div>
+      <div class="or-sep-line"></div>
+    </div>
+
+    <!-- ━━━ DOC STRIP ━━━ -->
+    <div class="strip">
+      <p class="strip-lbl">Documents surveillés par Daman AI</p>
+      <div class="strip-row">
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <rect x="1" y="4" width="22" height="16" rx="2" />
+            <line x1="1" y1="10" x2="23" y2="10" /></svg
+          >CNIE</span
+        >
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"
+            />
+            <polyline points="14 2 14 8 20 8" /></svg
+          >Passeport</span
+        >
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <rect x="1" y="3" width="15" height="13" rx="1" />
+            <path d="M16 8h4l3 3v2h-7" />
+            <circle cx="5.5" cy="18.5" r="2.5" />
+            <circle cx="18.5" cy="18.5" r="2.5" /></svg
+          >Carte Grise</span
+        >
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <rect x="1" y="3" width="15" height="13" rx="1" />
+            <path d="M16 8h4l3 3v2h-7" />
+            <circle cx="5.5" cy="18.5" r="2.5" />
+            <circle cx="18.5" cy="18.5" r="2.5" /></svg
+          >Permis</span
+        >
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" /></svg
+          >Assurance</span
+        >
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <circle cx="12" cy="8" r="6" />
+            <path d="M15.477 12.89L17 22l-5-3-5 3 1.523-9.11" /></svg
+          >Diplôme</span
+        >
+        <span class="strip-item"
+          ><svg
+            width="13"
+            height="13"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+          >
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" /></svg
+          >Bail</span
+        >
+      </div>
+    </div>
+
+    <div class="or-sep">
+      <div class="or-sep-line"></div>
+      <div class="or-sep-gem">
+        <div class="or-sep-d"></div>
+        <div class="or-sep-d"></div>
+      </div>
+      <div class="or-sep-line"></div>
+    </div>
+
+    <!-- ━━━ FEATURES ━━━ -->
+    <section class="feats" id="features">
+      <div style="max-width: 540px">
+        <p class="sec-eye">Pourquoi Daman AI</p>
+        <h2 class="stitle">Trois raisons de ne plus jamais oublier.</h2>
+        <p class="sdesc">
+          Chaque document oublié coûte du temps, de l'argent et du stress. Daman
+          veille pour vous.
+        </p>
+      </div>
+      <div class="fgrid">
+        <div class="fcard reveal">
+          <div class="ficon">
+            <svg
+              width="20"
+              height="20"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              viewBox="0 0 24 24"
+            >
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+            </svg>
+          </div>
+          <h3>Tranquillité d'esprit</h3>
+          <p>
+            Daman AI surveille automatiquement chaque date d'expiration. Vous
+            recevez des alertes par email à J-30, J-15 et J-7 — sans rien avoir
+            à vérifier vous-même.
+          </p>
+          <div class="fpills">
+            <span class="fpill">Alertes J-30</span>
+            <span class="fpill">Alertes J-15</span>
+            <span class="fpill">Alertes J-7</span>
+            <span class="fpill">Email auto</span>
+          </div>
+        </div>
+
+        <div class="fcard reveal" style="transition-delay: 0.1s">
+          <div class="ficon">
+            <svg
+              width="20"
+              height="20"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              viewBox="0 0 24 24"
+            >
+              <circle cx="12" cy="12" r="10" />
+              <polyline points="12 6 12 12 16 14" />
+            </svg>
+          </div>
+          <h3>Gain de temps</h3>
+          <p>
+            Un simple scan suffit. L'OCR détecte automatiquement le type de
+            document, le nom et la date d'expiration. Plus besoin de noter vos
+            dates dans un carnet.
+          </p>
+          <div class="fpills">
+            <span class="fpill">OCR intelligent</span>
+            <span class="fpill">Détection auto</span>
+            <span class="fpill">CIN · Passeport · Permis</span>
+          </div>
+        </div>
+
+        <div class="fcard reveal" style="transition-delay: 0.2s">
+          <div class="ficon">
+            <svg
+              width="20"
+              height="20"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              viewBox="0 0 24 24"
+            >
+              <line x1="12" y1="1" x2="12" y2="23" />
+              <path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" />
+            </svg>
+          </div>
+          <h3>Économies financières</h3>
+          <p>
+            Un passeport expiré = 300 DH de pénalité. Un permis périmé = amende.
+            Daman AI vous prévient à temps pour éviter les frais inutiles et les
+            galères administratives.
+          </p>
+          <div class="fpills">
+            <span class="fpill">Zéro pénalité</span>
+            <span class="fpill">Zéro amende</span>
+            <span class="fpill">Zéro stress</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ━━━ STEPS ━━━ -->
+    <section class="proc z-bg" id="steps">
+      <div class="proc-in">
+        <div class="proc-hd">
+          <p class="sec-eye" style="justify-content: center">En 3 étapes</p>
+          <h2 class="stitle" style="text-align: center">
+            Protégez vos documents en 2 minutes
+          </h2>
+        </div>
+        <div class="srow">
+          <div class="sitem reveal">
+            <div class="snum">1</div>
+            <h4>Connectez-vous</h4>
+            <p>Un clic avec Google. Zéro inscription, zéro mot de passe.</p>
+          </div>
+          <div class="sitem reveal" style="transition-delay: 0.1s">
+            <div class="snum">2</div>
+            <h4>Scannez vos documents</h4>
+            <p>
+              Photo de votre CIN, passeport ou permis. L'IA détecte tout
+              automatiquement.
+            </p>
+          </div>
+          <div class="sitem reveal" style="transition-delay: 0.2s">
+            <div class="snum">3</div>
+            <h4>Dormez tranquille</h4>
+            <p>
+              Daman surveille et vous alerte par email avant chaque expiration.
+            </p>
+          </div>
+          <div class="sitem reveal" style="transition-delay: 0.3s">
+            <div class="snum">✓</div>
+            <h4>Besoin d'aide ?</h4>
+            <p>
+              Le chatbot répond à vos questions sur les démarches en français et
+              en arabe.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ━━━ CTA ━━━ -->
+    <section class="cta-sec">
+      <div class="cta-box reveal">
+        <div class="cta-glow"></div>
+        <h2>Ne risquez plus<br />l'oubli.</h2>
+        <p>
+          Scannez vos documents maintenant. Daman AI vous préviendra avant
+          chaque expiration — gratuitement.
+        </p>
+        <a
+          href="/auth/login"
+          class="btnp"
+          style="font-size: 15px; padding: 14px 32px"
+          >Protéger mes documents →</a
+        >
+      </div>
+    </section>
+
+    <!-- ━━━ FOOTER ━━━ -->
+    <footer>
+      <div class="foot-in">
+        <a href="/" class="fbrand">
+          <div class="nlogo" style="width: 26px; height: 26px; font-size: 12px">
+            D
+          </div>
+          Daman AI
+        </a>
+        <div class="flinks">
+          <a href="#">Conditions</a>
+          <a href="#">Confidentialité</a>
+        </div>
+        <span class="fcopy">© 2026 Daman AI — Maroc</span>
+      </div>
+    </footer>
+
+    <script>
+      function toggleTheme() {
+        const h = document.documentElement;
+        const d = h.getAttribute("data-theme") === "dark";
+        h.setAttribute("data-theme", d ? "light" : "dark");
+        document.getElementById("themeIcon").textContent = d ? "◐" : "☀";
+        localStorage.setItem("daman-theme", d ? "light" : "dark");
+      }
+      (function () {
+        const s = localStorage.getItem("daman-theme");
+        if (s) {
+          document.documentElement.setAttribute("data-theme", s);
+          if (s === "light")
+            document.getElementById("themeIcon").textContent = "◐";
+        }
+      })();
+
+      // Scroll reveal (IntersectionObserver)
+      const obs = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((e) => {
+            if (e.isIntersecting) e.target.classList.add("visible");
+          });
+        },
+        { threshold: 0.12 },
+      );
+      document.querySelectorAll(".reveal").forEach((el) => obs.observe(el));
+    </script>
+  </body>
+</html>

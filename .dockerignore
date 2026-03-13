@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.env
+data/
+chroma_db/
+.git/
+.gitignore
+Dockerfile
+docker-compose.yaml
+README.md

@@ -1,0 +1,156 @@
+---
+titre: Permis de Conduire
+organisme: Ministère du Transport et de la Logistique
+type_procedure: Obtention, renouvellement, permis international
+source: service-public.ma
+date_mise_a_jour: 2024
+---
+
+# Permis de Conduire - Guide Complet
+
+## 📋 Description
+Le permis de conduire est un document officiel autorisant la conduite de véhicules sur le territoire marocain.
+
+## Catégories de permis
+- **Catégorie A** : Motocyclettes
+- **Catégorie B** : Véhicules légers (voitures)
+- **Catégorie C** : Poids lourds
+- **Catégorie D** : Transports en commun
+- **Catégorie E** : Véhicules avec remorque
+
+## 1. OBTENTION DU PERMIS B (Auto-école)
+
+### Conditions préalables :
+1. Être âgé d'au moins 18 ans
+2. Être titulaire de la CNI
+3. Être apte médicalement (visite médicale)
+4. Savoir lire et écrire
+
+### Étapes à suivre :
+
+#### Étape 1 : Inscription en auto-école
+- Choisir une auto-école agréée
+- Fournir les documents :
+  - Copie de la CNI
+  - 4 photos d'identité
+  - Certificat médical (médecin agréé)
+  - Timbre fiscal
+- Payer les frais d'inscription
+
+#### Étape 2 : Formation théorique (Code)
+- Cours sur le code de la route
+- Signalisation routière
+- Règles de circulation
+- Premiers secours
+- Durée : Minimum 20 heures
+
+#### Étape 3 : Examen théorique
+- Examen du code de la route (QCM)
+- 40 questions
+- Note éliminatoire : Moins de 35/40
+- Possibilité de repasser après 15 jours
+
+#### Étape 4 : Formation pratique
+- Conduite avec moniteur
+- Minimum 20 heures de conduite
+- Apprentissage :
+  - Manœuvres
+  - Circulation en ville
+  - Conduite sur autoroute
+  - Stationnement
+
+#### Étape 5 : Examen pratique
+- Test de conduite avec inspecteur
+- Épreuve de manœuvres
+- Conduite en situation réelle
+- Note éliminatoire : Faute grave
+
+## 2. RENOUVELLEMENT DU PERMIS
+
+### Cas de renouvellement :
+- **Expiration** : Tous les 10 ans
+- **Perte** : Déclaration + demande de duplicata
+- **Vol** : Plainte + demande de duplicata
+- **Détérioration** : Permis abîmé
+- **Changement d'adresse** : Mise à jour
+
+### Documents pour renouvellement :
+1. Ancien permis (si disponible)
+2. Copie de la CNI
+3. Certificat médical (moins de 3 mois)
+4. 4 photos d'identité
+5. Timbre fiscal (250 DH)
+6. Déclaration de perte/vol (si nécessaire)
+
+### Procédure :
+1. Se rendre à la préfecture ou à l'agence de la CNSSA
+2. Retirer et remplir le formulaire
+3. Déposer le dossier complet
+4. Payer les frais
+5. Retirer le nouveau permis (7-15 jours)
+
+## 3. PERMIS INTERNATIONAL
+
+### Utilité :
+- Permet de conduire à l'étranger
+- Valable 1 an
+- Complète le permis national
+
+### Conditions :
+- Être titulaire d'un permis marocain valide
+- Avoir plus de 18 ans
+- Résider au Maroc
+
+### Documents nécessaires :
+1. Permis de conduire marocain original
+2. Copie de la CNI
+3. 2 photos d'identité
+4. Timbre fiscal (200 DH)
+5. Formulaire de demande
+
+### Où le demander :
+- Préfectures de police
+- Agences CNSSA
+- Certaines auto-écoles agréées
+
+## 4. PERMIS DE CONDUIRE POUR ÉTRANGERS
+
+### Conversion du permis étranger :
+Les étrangers résidant au Maroc peuvent convertir leur permis étranger en permis marocain selon les accords internationaux.
+
+### Documents nécessaires :
+1. Permis étranger original
+2. Traduction officielle du permis
+3. CNI ou passeport (avec visa de résidence)
+4. Certificat de résidence
+5. Certificat médical
+6. 4 photos d'identité
+7. Timbre fiscal (selon la catégorie)
+
+## 5. INFRACTIONS ET POINTS
+
+### Système de points :
+- **Permis B** : 30 points au départ
+- **Permis professionnels** : 30 points
+- **Récupération de points** : Après 3 ans sans infraction
+
+### Principales infractions :
+- **Excès de vitesse** : 2 à 8 points
+- **Conduite en état d'ivresse** : 10 points
+- **Non-respect du stop** : 4 points
+- **Téléphone au volant** : 3 points
+- **Non-port de la ceinture** : 2 points
+
+### Suspension du permis :
+- Accumulation de points négative
+- Infractions graves
+- Décision judiciaire
+
+## 📞 Contacts utiles
+- **CNSSA** : 05 37 71 17 17
+- **Ministère du Transport** : 05 37 57 86 00
+- **Numéro d'urgence** : 177 (Gendarmerie), 19 (Sûreté)
+
+## 🔗 Liens utiles
+- Vérification du solde de points : www.najm.ma
+- Demande en ligne : www.service-public.ma

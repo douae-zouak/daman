@@ -1,0 +1,186 @@
+---
+titre Impôts au Maroc
+organisme Direction Générale des Impôts (DGI)
+type_procedure Déclaration annuelle, taxe d'habitation, TVA
+source finances.gov.ma
+date_mise_a_jour 2024
+---
+
+# Impôts au Maroc - Guide du Contribuable
+
+## 📋 Présentation
+La Direction Générale des Impôts (DGI) gère le système fiscal marocain. Ce guide couvre les principaux impôts pour les particuliers et les entreprises.
+
+## 1. DÉCLARATION ANNUELLE DES REVENUS
+
+### Qui doit déclarer 
+- Toute personne physique résidant au Maroc
+- Revenus supérieurs à 30 000 DH par an
+- Revenus de source marocaine ou étrangère
+
+### Types de revenus à déclarer 
+- Salaires et pensions
+- Revenus professionnels (BIC, BNC)
+- Revenus fonciers (locations)
+- Revenus de capitaux mobiliers (dividendes, intérêts)
+- Plus-values (cessions)
+
+### Période de déclaration 
+- Date limite  1er mars au 30 avril de chaque année
+- Déclaration en ligne  www.taxe.gov.ma
+
+### Documents nécessaires 
+- CNI
+- Attestation de salaire (pour les salariés)
+- Relevés bancaires
+- Contrats de location (revenus fonciers)
+- Factures d'achatvente (professionnels)
+- Déclarations précédentes
+
+### Barème de l'IR (2024) 
+ Tranche de revenu annuel  Taux d'imposition 
+----------------------------------------------
+ 0 - 30 000 DH  0% 
+ 30 001 - 50 000 DH  10% 
+ 50 001 - 60 000 DH  20% 
+ 60 001 - 80 000 DH  30% 
+ 80 001 - 180 000 DH  34% 
+ Au-delà de 180 000 DH  38% 
+
+### Déductions possibles 
+- Frais professionnels (20% du salaire, plafond 30 000 DH)
+- Cotisations CNSSCMR
+- Assurance-vie (plafond)
+- Dons aux œuvres sociales
+- Intérêts d'emprunt immobilier
+
+## 2. TAXE D'HABITATION
+
+### Qu'est-ce que la taxe d'habitation 
+Taxe annuelle due par les occupants de locaux à usage d'habitation.
+
+### Qui doit payer 
+- Propriétaires occupants
+- Locataires
+- Usufruitiers
+- Occupants à titre gratuit
+
+### Exonérations 
+- Logements sociaux (pendant 5 ans)
+- Habitations dont la valeur locative  3 000 DH
+- Personnes âgées de plus de 90 ans
+- Handicapés (sous conditions)
+
+### Calcul de la taxe 
+Base = Valeur locative du logement
+Taux = Variable selon la commune (généralement 5% à 15%)
+
+### Paiement 
+- Période  1er janvier au 31 décembre
+- Modalités  En ligne ou aux guichets des impôts
+- Échéancier  Paiement annuel ou mensualisation possible
+
+## 3. TVA (Taxe sur la Valeur Ajoutée)
+
+### Principes de base 
+- Taxe sur la consommation
+- Taux variable selon les produitsservices
+- Les entreprises collectent la TVA et la reversent à l'État
+
+### Taux de TVA au Maroc 
+ Taux  ProduitsServices concernés 
+------------------------------------
+ 20%  Taux normal (majorité des biens et services) 
+ 14%  Produits semi-finis, transports 
+ 10%  Hôtellerie, restauration, électricité 
+ 7%  Produits de première nécessité 
+ 0%  Exportations (exonération) 
+
+### Obligations des assujettis 
+1. Immatriculation à la TVA
+2. Facturation avec TVA mentionnée
+3. Déclarations mensuelles ou trimestrielles
+4. Paiement de la TVA collectée
+5. Déduction de la TVA payée sur les achats
+
+### Déclaration de TVA 
+- Fréquence  Mensuelle (CA  1 000 000 DH) ou trimestrielle
+- Date limite  20 du mois suivant
+- En ligne  www.taxe.gov.ma
+
+## 4. IMPÔT SUR LES SOCIÉTÉS (IS)
+
+### Taux d'IS 
+ Chiffre d'affaires  Taux 
+--------------------------
+  3 000 000 DH  10% 
+ 3 000 000 - 5 000 000 DH  17,5% 
+  5 000 000 DH  20% 
+ Établissements de crédit  37% 
+
+### Déclaration et paiement 
+- Déclaration annuelle  Dans les 3 mois suivant la clôture de l'exercice
+- Acomptes provisionnels  4 acomptes par an
+- Paiement  En ligne ou en banque
+
+## 5. AUTRES IMPÔTS ET TAXES
+
+### Taxe professionnelle 
+- Due par les personnes exerçant une activité professionnelle
+- Base = Valeur locative des locaux professionnels
+- Taux variable selon la commune
+
+### Taxe de services communaux 
+- Taxe additionnelle pour les services municipaux
+- Prélevée avec la taxe professionnelle
+
+### Droits d'enregistrement 
+- Vente immobilière  4% à 6%
+- Succession  1% à 5%
+- Donation  2% à 4%
+- Baux locatifs  1% à 2%
+
+## 6. DÉCLARATION ET PAIEMENT EN LIGNE
+
+### Portail Simpl  www.taxe.gov.ma
+Fonctionnalités 
+- Déclaration des revenus
+- Paiement en ligne
+- Consultation du compte fiscal
+- Téléchargement des attestations
+- Simulation d'impôts
+
+### Application mobile Simpl Maroc 
+- Déclaration simplifiée
+- Notification des échéances
+- Paiement par carte bancaire
+- Archivage des documents
+
+## 7. CALENDRIER FISCAL 2024
+
+ Mois  Échéances principales 
+----------------------------
+ Janvier  Paiement TVA (déc), acompte IS (1er) 
+ Février  Déclaration des salaires, IR (janv) 
+ Mars  Déclaration annuelle IR, TVA (fév) 
+ Avril  Fin déclaration IR, acompte IS (2ème) 
+ Mai  Paiement TVA (mars), déclaration IS (clôture déc) 
+ Juin  Déclaration des revenus fonciers 
+ Juillet  Acompte IS (3ème), TVA (mai) 
+ Août  TVA (juin), déclarations diverses 
+ Septembre  TVA (juillet), acompte IS (4ème) 
+ Octobre  TVA (août), déclaration des salaires 
+ Novembre  TVA (sept), acompte IS (1er) 
+ Décembre  TVA (oct), régularisations annuelles 
+
+## 📞 Contacts
+- Centre d'appels  05 37 57 80 00
+- Site web  www.finances.gov.ma
+- Portail fiscal  www.taxe.gov.ma
+- Email  contact@dgi.gov.ma
+- Application  Simpl Maroc
+
+## 🔗 Liens utiles
+- Calculateur d'impôt  www.taxe.gov.masimulateur
+- Guide des déclarations  www.finances.gov.maguides
+- Espace contribuable  espace.taxe.gov.ma

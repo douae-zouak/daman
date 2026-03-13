@@ -1,0 +1,280 @@
+---
+titre: CMR - Caisse Marocaine des Retraites
+organisme: CMR (Caisse Marocaine des Retraites)
+type_procedure: Pension de retraite (fonctionnaires), réversion, allocation
+source: cmr.gov.ma
+date_mise_a_jour: 2024
+---
+
+# CMR - Guide des Pensions des Fonctionnaires
+
+## 📋 Présentation
+La Caisse Marocaine des Retraites (CMR) gère les pensions des fonctionnaires et agents de l'État, des collectivités locales et des établissements publics. Le nouveau portail lancé en juillet 2024 offre des services numériques innovants.
+
+## 1. RÉGIMES DE RETRAITE
+
+### Régimes gérés par la CMR :
+
+| Régime | Bénéficiaires |
+|--------|---------------|
+| **Régime des pensions civiles (RPC)** | Fonctionnaires de l'État |
+| **Régime des collectivités locales (RCL)** | Agents des communes et régions |
+| **Régime des établissements publics (REP)** | Personnels des établissements publics |
+| **Régime militaire** | Forces armées royales, gendarmerie, etc. |
+| **Régime des auxiliaires** | Agents contractuels de l'État |
+
+## 2. PENSION DE RETRAITE (DÉPART À LA RETRAITE)
+
+### Conditions d'ouverture des droits
+
+#### A. Départ à la retraite normal
+
+**Âge légal :**
+- **Fonctionnaires** : 63 ans
+- **Militaires** : 60 ans (variable selon grade)
+- **Personnels actifs** : 60 ans (enseignants, infirmiers, etc.)
+
+**Durée de cotisation minimale :**
+- 21 ans (pour une pension complète)
+- 15 ans (minimum pour ouvrir droit)
+
+#### B. Retraite anticipée
+
+**Cas possibles :**
+- **Maladie ou invalidité** : Sans condition d'âge
+- **Femmes fonctionnaires** : Mères de 3 enfants ou plus (sous conditions)
+- **Départ volontaire** : À partir de 55 ans (avec décote)
+
+**Décote :**
+- Moins de 21 ans de cotisation
+- Réduction de 0,5% par trimestre manquant
+
+#### C. Retraite proportionnelle
+- Entre 15 et 21 ans de cotisation
+- Pension calculée au prorata des années cotisées
+
+### Calcul de la pension
+
+**Formule de base :**
+
+**Salaire de base :**
+- Dernier salaire (pour les fonctionnaires)
+- Moyenne des 5 dernières années (pour certains régimes)
+
+**Plafond :**
+- Maximum 100% du salaire de base
+- Minimum garanti : 1 000 DH par mois
+
+### Documents pour la demande de pension
+
+#### Dossier à constituer 6 mois avant le départ :
+
+1. **Formulaire de demande** (téléchargeable sur www.cmr.gov.ma)
+2. **CNI** (copie certifiée conforme)
+3. **Attestation de radiation** (délivrée par l'administration)
+4. **Relevé de carrière** (vérifier les années de cotisation)
+5. **Acte de naissance** (moins de 3 mois)
+6. **Certificat de vie collectif** (pour les retraités)
+7. **RIB** (Relevé d'Identité Bancaire)
+8. **Photos d'identité** (2 exemplaires)
+
+#### Documents supplémentaires selon situation :
+- **Marié(e)** : Acte de mariage
+- **Enfants** : Actes de naissance des enfants à charge
+- **Divorcé(e)** : Jugement de divorce
+- **Veuf/veuve** : Acte de décès du conjoint
+
+### Délais de traitement
+- **Dépôt du dossier** : 3 à 6 mois avant la date de retraite
+- **Liquidation de la pension** : 2 à 4 mois
+- **Premier versement** : Mois suivant la radiation
+
+## 3. PENSION DE RÉVERSION
+
+### Qu'est-ce que c'est ?
+Pension versée aux ayants droit (conjoint survivant, orphelins) d'un fonctionnaire décédé, qu'il soit retraité ou encore en activité.
+
+### Conditions pour le conjoint survivant
+
+#### Conditions générales :
+- Mariage antérieur au décès
+- Non-remariage
+- Durée du mariage : Au moins 2 ans (sauf enfant issu du mariage)
+
+#### Montant :
+- **50% de la pension** que percevait ou aurait perçu le défunt
+- Partage entre plusieurs conjoints (en cas de polygamie)
+
+### Conditions pour les orphelins
+
+#### Orphelins de père et mère :
+- **Jusqu'à 21 ans** : Pension complète
+- **De 21 à 25 ans** : Si études supérieures
+- **Sans limite d'âge** : Si handicap
+
+#### Orphelins d'un seul parent :
+- **50% de la pension** jusqu'à 21 ans
+
+### Documents pour la demande de réversion
+1. Acte de décès du fonctionnaire
+2. Acte de mariage
+3. CNI du conjoint survivant
+4. Actes de naissance des enfants
+5. Certificats de scolarité (enfants de 21-25 ans)
+6. RIB
+7. Formulaire de demande
+
+## 4. ALLOCATION DE FIN DE SERVICE
+
+### Pour les agents non titulaires :
+- Indemnité de départ
+- Calculée sur la base des années de service
+
+### Montant :
+- **Moins de 5 ans** : 1 mois de salaire par année
+- **5 à 10 ans** : 1,5 mois par année
+- **Plus de 10 ans** : 2 mois par année
+
+## 5. RACHAT DE COTISATIONS
+
+### Possibilités de rachat :
+- **Études supérieures** : Rachat des années d'études (max 5 ans)
+- **Services auxiliaires** : Périodes comme contractuel
+- **Interruptions de carrière** : Congés sans solde, disponibilités
+
+### Conditions :
+- Être encore en activité
+- Demande dans les 5 ans suivant la titularisation
+- Coût calculé selon l'âge et le salaire
+
+### Avantages :
+- Augmentation de la durée de cotisation
+- Amélioration du montant de la pension
+- Possibilité de départ plus précoce
+
+## 6. SERVICES EN LIGNE (Nouveau portail 2024)
+
+### Espace adhérent sur www.cmr.gov.ma
+
+**Fonctionnalités :**
+1. **Consultation du compte** :
+   - Relevé de carrière
+   - Situation des cotisations
+   - Simulation de pension
+
+2. **Démarches en ligne** :
+   - Demande de pension
+   - Mise à jour des informations
+   - Téléchargement des attestations
+
+3. **Suivi des dossiers** :
+   - État d'avancement
+   - Notifications
+   - Historique des paiements
+
+4. **Services pratiques** :
+   - Calculateur de pension
+   - Formulaire de contact
+   - FAQ interactive
+
+### Application mobile CMR
+- Disponible sur iOS et Android
+- Consultation simplifiée
+- Alertes personnalisées
+
+## 7. CALENDRIER DE PAIEMENT DES PENSIONS
+
+| Mois | Date de paiement | Observations |
+|------|------------------|--------------|
+| Janvier | 25 janvier | |
+| Février | 25 février | |
+| Mars | 25 mars | |
+| Avril | 25 avril | |
+| Mai | 25 mai | |
+| Juin | 25 juin | |
+| Juillet | 25 juillet | |
+| Août | 25 août | |
+| Septembre | 25 septembre | |
+| Octobre | 25 octobre | |
+| Novembre | 25 novembre | |
+| Décembre | 20 décembre | Paiement anticipé |
+
+### Modes de paiement :
+- Virement bancaire (recommandé)
+- Mandat postal
+- Espèces (dans certaines agences)
+
+## 8. DÉCLARATION DE VIE (CERTIFICAT DE VIE)
+
+### Pourquoi ?
+- Prouver que le retraité est toujours vivant
+- Obligatoire pour continuer à percevoir la pension
+
+### Fréquence :
+- **Au Maroc** : Annuelle (généralement en mars)
+- **À l'étranger** : Semestrielle
+
+### Comment faire ?
+1. **En ligne** : Via l'application CMR (reconnaissance faciale)
+2. **En agence** : Se présenter avec CNI
+3. **Au consulat** : Pour les résidents à l'étranger
+4. **Par huissier** : En cas d'incapacité de déplacement
+
+## 9. CUMUL EMPLOI-RETRAITE
+
+### Conditions :
+- Avoir liquidé sa pension
+- Avoir atteint l'âge légal de retraite
+- Exercer dans le privé (pas dans la fonction publique)
+
+### Limitations :
+- **Fonctionnaires** : Interdiction de cumul avec un emploi public
+- **Secteur privé** : Possible sans restriction
+- **Plafond** : Pension + salaire ≤ Dernier salaire d'activité
+
+## 10. CONTACTS ET ASSISTANCE
+
+### Agences CMR par ville
+
+| Ville | Adresse | Téléphone |
+|-------|---------|-----------|
+| **Rabat (Siège)** | Avenue de la Victoire | 05 37 27 27 27 |
+| **Casablanca** | 45, Bd Moulay Youssef | 05 22 45 45 45 |
+| **Marrakech** | Av. Mohammed V | 05 24 44 44 44 |
+| **Fès** | Place de la Résistance | 05 35 62 62 62 |
+| **Tanger** | 12, Av. d'Espagne | 05 39 32 32 32 |
+| **Agadir** | Bd Hassan II | 05 28 84 84 84 |
+
+### Contacts utiles :
+- **Centre d'appels** : 080 200 66 66 (numéro vert)
+- **Site web** : www.cmr.gov.ma
+- **Email** : contact@cmr.gov.ma
+- **Application** : CMR Mobile
+- **Facebook** : @CMRMaroc
+- **Twitter** : @CMR_Officiel
+
+## 11. FOIRE AUX QUESTIONS (FAQ)
+
+### Q: Quand dois-je commencer mes démarches de retraite ?
+R: Au moins 6 mois avant la date prévue de départ.
+
+### Q: Puis-je travailler après la retraite ?
+R: Oui, dans le privé, sous conditions.
+
+### Q: Comment vérifier mon relevé de carrière ?
+R: Sur l'espace adhérent du site CMR.
+
+### Q: Que faire en cas de déménagement ?
+R: Mettre à jour votre adresse en ligne ou en agence.
+
+### Q: La pension est-elle imposable ?
+R: Oui, soumise à l'IR avec un abattement spécifique.
+
+### Q: Comment déclarer le décès d'un retraité ?
+R: Informer la CMR dans les 30 jours (acte de décès).
+
+## 🔗 Liens utiles
+- Simulation de pension : www.cmr.gov.ma/simulateur
+- Espace adhérent : espace.cmr.gov.ma
+- Guide des pensions : www.cmr.gov.ma/guide
+- Calculateur de rachat : www.cmr.gov.ma/rachat

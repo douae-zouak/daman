@@ -1,0 +1,215 @@
+---
+titre: Casier Judiciaire (Bulletin n°3)
+organisme: Ministère de la Justice
+type_procedure: Demande de bulletin n°3
+source: justice.gov.ma
+date_mise_a_jour: 2024
+---
+
+# Casier Judiciaire - Guide du Bulletin n°3
+
+## 📋 Présentation
+Le casier judiciaire est le document qui récapitule les condamnations pénales d'une personne. Le **Bulletin n°3** est le plus demandé car il ne contient que les condamnations les plus graves et est utilisé pour les démarches administratives et professionnelles.
+
+## 1. QU'EST-CE QUE LE BULLETIN N°3 ?
+
+### Contenu du bulletin n°3 :
+- Condamnations pour crimes et délits
+- Interdictions, déchéances et incapacités
+- Condamnations étrangères (si transmises)
+- Ne contient PAS les condamnations mineures
+
+### À quoi sert-il ?
+- **Recherche d'emploi** : Employeurs (secteur public et privé)
+- **Inscription** : Ordres professionnels (avocats, médecins, etc.)
+- **Création d'entreprise** : Gérants et dirigeants
+- **Concours** : Fonction publique
+- **Visa** : Certains pays (demande de visa)
+- **Adoption** : Agrément pour adoption
+- **Naturalisation** : Demande de nationalité
+- **Armes** : Demande de permis de port d'armes
+
+### Validité :
+- **Durée** : 3 mois généralement
+- Exception : Certaines administrations exigent un bulletin récent (1 mois)
+
+## 2. CONDITIONS D'OBTENTION
+
+### Qui peut demander le bulletin n°3 ?
+- **La personne concernée** (uniquement pour elle-même)
+- Son représentant légal (pour les mineurs ou personnes protégées)
+- Les ayants droit (après décès, pour certaines démarches)
+
+### Conditions :
+- Être de nationalité marocaine ou étranger résidant au Maroc
+- Présenter une pièce d'identité valide
+- Payer les frais (timbre fiscal)
+
+## 3. DOCUMENTS NÉCESSAIRES
+
+### Pour les Marocains :
+1. **CNI** (original et copie)
+2. **Timbre fiscal** (variable selon le support de demande)
+3. Formulaire de demande (disponible sur place ou en ligne)
+
+### Pour les étrangers résidant au Maroc :
+1. **Passeport** (original et copie)
+2. **Carte de séjour** valide (original et copie)
+3. **Timbre fiscal**
+4. Formulaire de demande
+
+### Pour les Marocains résidant à l'étranger :
+1. **Passeport marocain** (original et copie)
+2. **Justificatif de résidence** à l'étranger
+3. **Timbre fiscal** (acheté au consulat)
+4. Formulaire de demande consulaire
+
+### Cas particuliers :
+- **Mineurs** : CNI du représentant légal + acte de naissance du mineur
+- **Personnes sous tutelle** : Jugement de tutelle + CNI du tuteur
+- **Personnes décédées** : Acte de décès + CNI du demandeur + justificatif du lien
+
+## 4. PROCÉDURES DE DEMANDE
+
+### A. Demande en ligne (recommandée)
+
+#### Via le portail "Maâk" (maak.justice.gov.ma) :
+1. **Créer un compte** :
+   - Saisir ses informations personnelles
+   - Créer identifiant et mot de passe
+   - Valider son email
+
+2. **Faire la demande** :
+   - Se connecter à son espace
+   - Cliquer sur "Demande de bulletin n°3"
+   - Remplir le formulaire en ligne
+   - Télécharger une copie de la CNI
+   - Payer en ligne (carte bancaire)
+   - Valider la demande
+
+3. **Suivre la demande** :
+   - Statut en temps réel
+   - Notification par email/SMS
+   - Téléchargement du bulletin
+
+4. **Récupérer le bulletin** :
+   - Téléchargement immédiat en PDF
+   - Impression à domicile
+   - Le document est authentifié par QR code
+
+**Délai** : Immédiat à 24h
+**Coût** : 20 DH (paiement en ligne)
+
+### B. Demande en personne
+
+#### Au tribunal de première instance :
+1. Se rendre au tribunal du lieu de naissance ou de résidence
+2. Se munir des documents requis
+3. Acheter le timbre fiscal (20 DH) à la régie du tribunal
+4. Remplir le formulaire de demande
+5. Déposer le dossier au guichet du casier judiciaire
+6. Attendre la délivrance (généralement 30 minutes à 2 heures)
+
+#### À la préfecture de police (pour certaines villes) :
+- Même procédure qu'au tribunal
+- Délai variable selon l'affluence
+
+### C. Demande par procuration
+1. Rédiger une procuration signée
+2. Joindre copie de la CNI du mandant
+3. Présenter CNI du mandataire
+4. Suivre la procédure standard
+
+### D. Demande depuis l'étranger
+
+#### Par courrier au consulat :
+1. Télécharger le formulaire sur le site du consulat
+2. Remplir et signer le formulaire
+3. Joindre :
+   - Copie du passeport
+   - Timbre fiscal consulaire (acheté au consulat)
+   - Enveloppe retour timbrée
+4. Envoyer le dossier par courrier recommandé
+
+#### En personne au consulat :
+1. Prendre rendez-vous (si nécessaire)
+2. Se présenter avec les documents
+3. Payer les frais consulaires
+4. Retirer le bulletin (délai variable)
+
+**Délai** : 1 à 4 semaines selon le consulat
+
+## 5. FRAIS ET TIMBRES FISCAUX
+
+| Type de demande | Coût | Observations |
+|-----------------|------|--------------|
+| En ligne | 20 DH | Paiement par carte bancaire |
+| Au tribunal | 20 DH | Timbre fiscal à acheter sur place |
+| Au consulat | Variable | Frais consulaires + timbre |
+| Urgent (certains tribunaux) | +50% | Service express |
+
+## 6. VÉRIFICATION DU BULLETIN
+
+### Authenticité :
+- **QR code** : Scanner pour vérifier en ligne
+- **Sceau humide** : Pour les versions papier
+- **Signature** : De l'autorité compétente
+
+### Vérification en ligne :
+1. Aller sur maak.justice.gov.ma
+2. Cliquer sur "Vérifier un document"
+3. Scanner le QR code ou saisir le numéro
+4. Vérifier la concordance des informations
+
+## 7. DÉLAIS DE TRAITEMENT
+
+| Mode de demande | Délai normal | Délai urgent |
+|-----------------|--------------|--------------|
+| En ligne | Immédiat à 24h | - |
+| Tribunal (sur place) | 30 min à 2h | 15 min (frais supplémentaires) |
+| Tribunal (dépôt) | 24h à 48h | 2h (frais supplémentaires) |
+| Consulat (sur place) | 24h à 72h | 1h (selon disponibilité) |
+| Consulat (courrier) | 2 à 4 semaines | - |
+
+## 8. PROBLÈMES FRÉQUENTS ET SOLUTIONS
+
+### Bulletin non trouvé :
+- **Causes possibles** :
+  - Erreur dans les informations fournies
+  - Naissance à l'étranger non enregistrée
+  - Problème technique
+- **Solution** : Vérifier les informations et réessayer, contacter le tribunal
+
+### Informations erronées :
+- **Procédure** : Contacter le tribunal qui a émis la condamnation
+- **Rectification** : Demander la mise à jour du casier judiciaire
+
+### Bulletin "vierge" alors que condamnations existent :
+- **Possible si** : Condamnations effacées (réhabilitation, amnistie)
+- **Vérification** : Contacter son avocat ou le tribunal
+
+## 9. CAS PARTICULIERS
+
+### Effacement des condamnations :
+- **Réhabilitation légale** : Après 5 à 10 ans selon la peine
+- **Réhabilitation judiciaire** : Par décision de justice
+- **Amnistie** : Loi spéciale effaçant certaines condamnations
+
+### Casier judiciaire des mineurs :
+- Règles spécifiques de conservation
+- Effacement automatique à la majorité (certains cas)
+
+### Casier judiciaire étranger :
+- Peut être demandé via les consulats
+- Nécessite parfois une traduction officielle
+
+## 📞 Contacts
+- **Portail Maâk** : maak.justice.gov.ma
+- **Ministère de la Justice** : 05 37 57 97 00
+- **Support en ligne** : aide@maak.justice.gov.ma
+- **Urgences** : 19 (police), 177 (gendarmerie)
+
+## 🔗 Liens utiles
+- Demande en ligne : maak.justice.gov.ma
+- Vérification des documents : www.justice.gov.ma/verification
+- Liste des tribunaux : www.minjust.gov.ma

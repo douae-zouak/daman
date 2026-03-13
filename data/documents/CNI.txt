@@ -1,0 +1,76 @@
+---
+titre: Carte Nationale d'Identité (CNI)
+organisme: Direction Générale de la Sûreté Nationale (DGSN)
+type_procedure: Première demande, renouvellement, perte/vol
+source: service-public.ma
+date_mise_a_jour: 2024
+---
+
+# Carte Nationale d'Identité - Guide Complet
+
+## 📋 Description
+La Carte Nationale d'Identité électronique (CNIE) est le document officiel d'identification des citoyens marocains.
+
+## Types de procédures
+- **Première demande** : Pour les personnes n'ayant jamais eu de CNI
+- **Renouvellement** : Expiration, changement d'adresse, modification des informations
+- **Duplicata** : En cas de perte ou de vol
+
+## ✅ Conditions d'éligibilité
+1. Être de nationalité marocaine
+2. Être âgé(e) de 18 ans ou plus (les mineurs peuvent avoir une CNI sur demande des parents)
+3. Résider au Maroc ou à l'étranger
+
+## 📄 Pièces justificatives à fournir
+
+### Pour une première demande :
+1. Original et copie de l'acte de naissance (moins de 3 mois)
+2. Deux photos d'identité récentes sur fond blanc (format 35x45 mm)
+3. Original et copie de la carte d'identité des parents (pour les mineurs)
+4. Justificatif de résidence (facture d'eau, d'électricité ou contrat de location)
+5. Timbre fiscal de 50 DH
+
+### Pour un renouvellement :
+1. Ancienne CNI (si disponible)
+2. Deux photos d'identité récentes
+3. Justificatif de résidence récent
+4. Timbre fiscal de 50 DH
+
+### En cas de perte/vol :
+1. Déclaration de perte/vol auprès des autorités de police ou de gendarmerie
+2. Acte de naissance (moins de 3 mois)
+3. Deux photos d'identité récentes
+4. Justificatif de résidence
+5. Timbre fiscal de 50 DH
+
+## 📝 Procédure pas à pas
+
+### Étape 1 : Préparation du dossier
+- Rassembler tous les documents requis
+- Faire les photos d'identité
+- Acheter le timbre fiscal
+
+### Étape 2 : Dépôt de la demande
+- Se rendre au bureau de la CNIE le plus proche
+- Retirer et remplir le formulaire de demande
+- Présenter le dossier complet à l'agent
+- Prise des empreintes digitales et photo
+
+### Étape 3 : Suivi et retrait
+- Conserver le récépissé de dépôt
+- Attendre la convocation par SMS
+- Se présenter au même bureau avec le récépissé
+- Retirer la nouvelle carte
+
+## ⏱️ Délais et coûts
+- **Délai de traitement** : 7 à 10 jours ouvrés
+- **Coût** : 50 DH (timbre fiscal)
+- **Validité** : 10 ans
+
+## 📞 Contacts utiles
+- **Allo Police** : 19
+- **Site web officiel** : www.cnie.ma
+- **Application mobile** : CNIE Maroc
+
+## 🔗 Source
+https://www.service-public.ma/web/guest/carte-nationale

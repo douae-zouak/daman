@@ -1,0 +1,287 @@
+---
+titre: Foncier au Maroc - Titre Foncier et Transactions Immobilières
+organisme: ANCFCC (Agence Nationale de la Conservation Foncière)
+type_procedure: Achat/vente immobilière, titre foncier, conservation foncière
+source: ancfcc.gov.ma
+date_mise_a_jour: 2024
+---
+
+# Guide du Foncier au Maroc
+
+## 📋 Présentation
+Le foncier au Maroc est géré par l'ANCFCC (Agence Nationale de la Conservation Foncière, du Cadastre et de la Cartographie). Le système repose sur le principe du **titre foncier**, document juridique qui garantit la propriété immobilière.
+
+## 1. LE TITRE FONCIER
+
+### Qu'est-ce que le titre foncier ?
+C'est le document officiel qui prouve la propriété d'un bien immobilier au Maroc. Il est :
+- **Incontestable** : Fait foi jusqu'à preuve du contraire
+- **Immuable** : Les informations sont juridiquement certaines
+- **Opposable** : Valable contre tous
+
+### Contenu du titre foncier :
+- Numéro du titre
+- Identité du propriétaire
+- Description du bien (surface, limites, situation)
+- Charges et servitudes
+- Hypothèques éventuelles
+- Historique des transactions
+
+### Différence avec l'acte adoulaire (melkia) :
+| Titre foncier | Acte adoulaire (melkia) |
+|---------------|------------------------|
+| Propriété garantie par l'État | Propriété coutumière |
+| Inscrit à la conservation foncière | Non inscrit |
+| Sécurisé juridiquement | Risques de litiges |
+| Nécessaire pour les transactions modernes | Accepté dans certaines zones rurales |
+| Obtention longue (2-5 ans) | Obtention rapide |
+
+## 2. PROCÉDURE D'OBTENTION D'UN TITRE FONCIER
+
+### A. Immatriculation foncière (premier titre)
+
+#### Conditions :
+- Être propriétaire du terrain
+- Avoir des documents justifiant la propriété (melkia, actes, etc.)
+- Le bien doit être situé dans une zone immatriculable
+
+#### Étapes :
+
+**Étape 1 : Constitution du dossier**
+Documents nécessaires :
+- Demande d'immatriculation
+- Titre de propriété (melkia, acte adoulaire, jugement)
+- CNI du demandeur
+- Plan du terrain (géomètre agréé)
+- Certificat de non-inscription (délivré par la conservation)
+- Timbre fiscal
+
+**Étape 2 : Dépôt à la conservation foncière**
+- Dépôt du dossier au service de la conservation foncière
+- Enregistrement de la demande
+- Paiement des frais
+
+**Étape 3 : Publicité et enquête**
+- Affichage public pendant 2 mois
+- Enquête sur le terrain
+- Vérification des limites
+- Audition des voisins et témoins
+
+**Étape 4 : Décision**
+- Absence d'opposition : Immatriculation prononcée
+- Opposition : Procédure contentieuse
+
+**Étape 5 : Délivrance du titre**
+- Rédaction du titre foncier
+- Inscription sur les registres
+- Remise au propriétaire
+
+**Délai** : 2 à 5 ans (parfois plus)
+**Coût** : Variable selon la surface (plusieurs milliers de DH)
+
+### B. Immatriculation simplifiée (zones urbaines)
+Procédure accélérée dans certaines zones :
+- Délai : 6 à 12 mois
+- Coût : Réduit
+- Conditions : Zone couverte par le cadastre
+
+## 3. ACHAT D'UN BIEN IMMOBILIER
+
+### A. Avant l'achat : Vérifications préalables
+
+#### 1. Vérifier le titre foncier :
+- Demander une copie du titre foncier
+- Vérifier l'identité du vendeur
+- Contrôler les charges (hypothèques, servitudes)
+- Demander un état des inscriptions (moins de 3 mois)
+
+#### 2. Vérifier la situation du bien :
+- Visiter le bien
+- Vérifier l'occupation (locataires, occupants)
+- Contrôler les limites physiques
+- Vérifier les servitudes (passage, vue, etc.)
+
+#### 3. Documents à demander au vendeur :
+- Titre foncier original
+- CNI
+- Certificat de propriété récent
+- Attestation de non-hypothèque
+- Plan du bien
+- Quittances des taxes (si existantes)
+
+### B. La promesse de vente
+
+#### Contenu :
+- Identification des parties
+- Description du bien
+- Prix convenu
+- Délai de réalisation
+- Conditions suspensives (obtention prêt, etc.)
+- Clause de dédit
+
+#### Types :
+- **Promesse unilatérale** : Une seule partie s'engage
+- **Compromis de vente** : Les deux parties s'engagent
+
+### C. L'acte de vente
+
+#### Chez le notaire (recommandé) :
+1. Choix du notaire (adoul pour les actes authentiques)
+2. Vérification des documents
+3. Rédaction de l'acte
+4. Signature par les parties
+5. Enregistrement et paiement des droits
+
+#### Documents pour l'acte :
+- Titre foncier
+- CNI des parties
+- Certificat de propriété récent
+- Attestation de non-hypothèque
+- Autorisation du conjoint (si bien commun)
+- Quittance des taxes (si applicable)
+- Certificat de la commune (pour certaines zones)
+
+#### Frais d'acquisition :
+| Poste | Taux | Base de calcul |
+|-------|------|----------------|
+| Droits d'enregistrement | 4% à 6% | Prix de vente |
+| Honoraires notaire | 1% à 2% | Prix de vente |
+| Conservation foncière | 0,5% à 1% | Prix de vente |
+| Timbre fiscal | Forfait | Variable |
+
+### D. La transcription à la conservation foncière
+
+#### Pourquoi ?
+- Rendre la vente opposable aux tiers
+- Obtenir un nouveau titre foncier au nom de l'acheteur
+
+#### Documents :
+- Expédition de l'acte de vente
+- Titre foncier original
+- Certificat de propriété
+- Quittance des droits
+
+#### Délai : 2 à 6 mois
+#### Coût : Inclus dans les frais de notaire
+
+## 4. VENTE D'UN BIEN IMMOBILIER
+
+### Documents à préparer :
+1. Titre foncier
+2. CNI
+3. Certificat de propriété récent
+4. Attestation de situation fiscale
+5. Autorisation du conjoint (si marié)
+6. Plan du bien
+7. Carnet de santé du bien (si immeuble collectif)
+
+### Fiscalité de la vente :
+- **Plus-value immobilière** : 20% (sauf exemptions)
+- **Exemptions** :
+  - Résidence principale
+  - Propriété détenue depuis plus de 10 ans
+  - Vente inférieure à 140 000 DH
+
+## 5. HYPOTHÈQUE ET CRÉDIT IMMOBILIER
+
+### Mise en hypothèque :
+1. Offre de prêt bancaire
+2. Rendez-vous chez le notaire
+3. Signature de l'acte hypothécaire
+4. Inscription à la conservation foncière
+
+### Documents pour crédit immobilier :
+- Titre foncier
+- CNI
+- Contrat de travail
+- Bulletins de salaire
+- Relevés bancaires
+- Devis du bien
+
+### Levée d'hypothèque (après remboursement) :
+1. Attestation de la banque (mainlevée)
+2. Acte de mainlevée chez le notaire
+3. Radiation à la conservation foncière
+
+## 6. SUCCESSION IMMOBILIÈRE
+
+### Documents nécessaires :
+1. Acte de décès
+2. Actes de naissance des héritiers
+3. CNI des héritiers
+4. Titre foncier du défunt
+5. Attestation de propriété
+
+### Étapes :
+1. Établissement de l'acte de notoriété (adoul)
+2. Déclaration de succession
+3. Paiement des droits de succession
+4. Délivrance des titres aux héritiers
+
+### Droits de succession :
+| Lien avec le défunt | Taux | Abattement |
+|--------------------|------|------------|
+| Conjoint | 2.5% | 100 000 DH |
+| Enfants | 2.5% | 100 000 DH |
+| Parents | 5% | 50 000 DH |
+| Autres | 10% | 20 000 DH |
+
+## 7. COPROPRIÉTÉ
+
+### Règles spécifiques :
+- État descriptif de division
+- Règlement de copropriété
+- Parties communes et privatives
+- Charges de copropriété
+
+### Documents :
+- Titre foncier principal
+- État descriptif de division
+- Règlement de copropriété
+- Carnet de santé de l'immeuble
+
+### Assemblée générale des copropriétaires :
+- Annuelle obligatoire
+- Vote du budget
+- Élection du syndic
+- Décisions sur travaux
+
+## 8. PROBLÈMES COURANTS ET SOLUTIONS
+
+### Litiges de voisinage :
+- **Bornage** : Faire appel à un géomètre
+- **Servitudes** : Vérifier le titre foncier
+- **Troubles** : Conciliation ou tribunal
+
+### Occupation sans titre :
+- Procédure d'expropriation
+- Indemnisation possible
+- Décision judiciaire
+
+### Doublons de titres :
+- Très rare grâce au système informatisé
+- Vérification auprès de la conservation
+
+## 9. NOUVEAUX SERVICES DIGITAUX
+
+### Portail ANCFCC (www.ancfcc.gov.ma) :
+- Consultation en ligne des titres
+- Demande d'états des inscriptions
+- Suivi des dossiers
+- Calculateur de frais
+
+### Application mobile :
+- Géolocalisation des biens
+- Consultation simplifiée
+- Alertes sur les modifications
+
+## 📞 Contacts
+- **ANCFCC** : 05 37 67 87 00
+- **Centre d'appels** : 080 100 50 50
+- **Site web** : www.ancfcc.gov.ma
+- **Email** : contact@ancfcc.gov.ma
+
+## 🔗 Liens utiles
+- Consultation des titres : www.ancfcc.gov.ma/consultation
+- Calculateur de frais : www.ancfcc.gov.ma/simulateur
+- Liste des notaires : www.adls.ma
